@@ -1,0 +1,836 @@
+Plant type,Species,Author,Journal,Year,Kingdom,Phylum,Angiosperm or Gymnosperm,Dicot or Monocot,Class,Order,Family,Accepted name,Growth form Raunkiaer,Growth form author
+Tree,Abies balsamea,Silvertown & Dodd,Am Nat,1999,Plantae,Pinophyta,Gymnosperm,.,Pinopsida,Pinales,Pinaceae,Abies concolor,Macrophanerophyte,
+Tree,,,J Ecol,,,,,,,,,,,
+Tree,Abies homolepis,Nakashizuka,J Veg Sci,1991,Plantae,Pinophyta,Gymnosperm,.,Pinopsida,Pinales,Pinaceae,Abies homolepis,,
+Tree,Abies magnifica,van Mantgem & Stepheson,J Ecol,2005,Plantae,Pinophyta,Gymnosperm,.,Pinopsida,Pinales,Pinaceae,Abies magnifica,Mesophanerophyte,
+Tree,Abies sachalinensis,Kubota,Eco Research,1997,Plantae,Pinophyta,Gymnosperm,.,Pinopsida,Pinales,Pinaceae,Abies sachalinensis,Macrophanerophyte,
+Tree,Abies sachalinensis 2,,J Veg Sci,1999,Plantae,Pinophyta,Gymnosperm,.,Pinopsida,Pinales,Pinaceae,Abies sachalinensis,Macrophanerophyte,
+Annual,Abutilon theophrasti,0.307,Weed Sci,2005,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malvales,Malvaceae,Abutilon theophrasti,,
+Shrub,Acacia aneura,"Rosenberg, Boland, Tiver, & Watson",Internet,.,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Mimosaceae,Acacia quadrimarginea,Nanophanerophyte,Small tree or large shrub
+Shrub,Acacia bilimekii,Jimenez-Lobato & Valverde,J Arid Env,2006,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Mimosaceae,Acacia bilimekii,Nanophanerophyte,
+Tree,Acacia drepanolobium,"Maclean, Goheen, Doak, Palmer & Young",Ecol,2011,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Mimosaceae,,,
+Tree,Acacia pennatula,Somarriba,Agrofor Syst,2011,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Mimosaceae,Acacia suaveolens,,
+Shrub,Acacia suaveolens,Warton & Wardle,Austral Ecol,2003,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Mimosaceae,Acacia suaveolens,Nanophanerophyte,
+Tree,Acer amoenum,"Tanaka, Shibata, Masaki, Iida, Niiyama, Abe, Kominami & Nakashizuka",J Veg Sci,2008,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Sapindales,Aceraceae,,Mesophanerophyte,
+Tree,Acer mono,"Tanaka, Shibata, Masaki, Iida, Niiyama, Abe, Kominami & Nakashizuka",J Veg Sci,2008,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Sapindales,Aceraceae,,Macrophanerophyte,
+Tree,Acer rufinerve,"Tanaka, Shibata, Masaki, Iida, Niiyama, Abe, Kominami & Nakashizuka",J Veg Sci,2008,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Sapindales,Aceraceae,,Macrophanerophyte,
+Tree,Acer saccharum,Lin & Augspurger,Forest Ecol & Manag,2008,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Sapindales,Aceraceae,Acer saccharum,Macrophanerophyte,
+Herbaceous perennial,Achillea millefolium,Freville & Silvertown,Plant Ecol,2005,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Achillea millefolium,Hemicryptophyte,Rhizome
+Herbaceous perennial,Achnatherum calamagrostis,"Guardia, Raventos & Caswell",J Ecol,2000,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,,Hemicryptophyte,"Tiller, rhyzome"
+Herbaceous perennial,Aconitum noveboracense,Dixon & Cook,Report,2000,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ranunculales,Ranunculaceae,Aconitum noveboracense,Helophyte,Tubers
+Herbaceous perennial,Actaea elata,Mayberry & Elle,Oeco,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ranunculales,Ranunculaceae,Actaea spicata,Helophyte,
+Herbaceous perennial,Actaea spicata,Fröborg & Eriksson,Can J Bot,2003,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ranunculales,Ranunculaceae,Actaea spicata,Hemicryptophyte,No clonal rhyzome
+Herbaceous perennial,Adenocarpus gibbsianus,"Iriondo, Albert, Gimenez, Lozano & Escudero",Book,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,,Nanophanerophyte,
+Shrub,Adesmia volckmanni,Cipriotti & Aguiar,Appl Veg Sci,2012,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,,Chamaephytes,
+Herbaceous perennial,Aechmea magdalenae,Tickting & Nantel,Biol Cons,2004,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Bromeliaceae,Aechmea magdalenae,Geophyte,Rhyzomes
+Herbaceous perennial,Aechmea nudicaulis,"Sampaio, Pico & Scarano",Amer J Bot,2005,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Bromeliaceae,Aechmea nudicaulis,Geophyte,"Rhyzome, clones"
+Herbaceous perennial,Aegilops triuncialis,Thomson,Ecol,2007,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,,,
+Annual,Aeschynomene virginica,Griffith & Forseth,Ecol Appl,2005,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,Aeschynomene virginica,Therophyte,Forb
+Tree,Aesculus turbinata,"Kaneko, Takada & Kawano",Plant Spp Biol,1999,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Sapindales,Hippocastanaceae,Aesculus turbinata,Mesophanerophyte,
+Annual,Agalinis auriculata,"Vitt, Havens, Kendall & Knight",Biol Cons,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Orobanchaceae,Agalinis auriculata,Therophyte,Hemi-parasitic. Single unbranched stem
+Tree,Agathis ovata,Enright,Working on it,,Plantae,Pinophyta,Gymnosperm,.,Pinopsida,Pinales,Araucariaceae,,,
+Succulent,Agave marmorata,"Jimenez-Valdes, Godinez-Alvarez, Caballero, Lira",Econ Bot,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asparagales,Asparagaceae,,Nanophanerophyte,
+Herbaceous perennial,Agrimonia eupatoria,Kiviniemi,Plant Ecol,2002,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Rosales,Rosaceae,Agrimonia eupatoria,Hemicryptophyte,Rhyzome
+Herbaceous perennial,Agropyron cristatum,Hansen & Wilson,J Appl Ecol,2006,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,Agropyron cristatum,Hemicryptophyte,Tiller
+Herbaceous perennial,Agropyron repens,Mortimer,On Weed Demography (in Recent Advances in Weed Research),1983,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,Elymus repens,Hemicryptophyte,Tiller
+Tree,Ailanthus altissima,"Burns, Pardini, Schutzenhofer, Chung, Seidler & Knight",Unpublished ms (word),,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Sapindales,Simaroubaceae,,Mesophanerophyte,
+Tree,Ailanthus altissima 2,"Bullock, White, Prudhomme, Tansey, Perea & Hooftman",J Ecol,2011,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Sapindales,Simaroubaceae,,Mesophanerophyte,
+Algae,Alaria nana,Pfister & Wang,Ecol,2005,Chromalveolata,Heterokontophyta,.,.,Phaeophyceae,Laminariales,Alariaceae,,Hydrophyte,
+Herbaceous perennial,Alliaria petiolata,"Davis, Landis, Nuzzo, Blossey, Gerber & Hinz",Ecol Appl,2006,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Brassicales,Brassicaceae,Alliaria petiolata,Hemicryptophyte,Rosette
+Herbaceous perennial,Alliaria petiolata 2,Davis,Weed Sci,2006,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Brassicales,Brassicaceae,Alliaria petiolata,Hemicryptophyte,Rosette
+Herbaceous perennial,Alliaria petiolata 3,"Burns, Pardini, Schutzenhofer, Chung, Seidler & Knight",Unpublished ms (word),,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Brassicales,Brassicaceae,Alliaria petiolata,Hemicryptophyte,Rosette
+Herbaceous perennial,Alliaria petiolata 4,"Evans, Davis, Raghu, Ragavendran, Landis & Schemske",Ecol Appl,2012,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Brassicales,Brassicaceae,Alliaria petiolata,,
+Herbaceous perennial,Allium monanthum,"Schoichi, Takenori, Shuichi & Akira","Differentiation Patterns in Higher Plants, AP",1987,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Liliales,Liliaceae,Allium monanthum,Geophyte,Bulb
+Herbaceous perennial,Allium sativum,"Burns, Pardini, Schutzenhofer, Chung, Seidler & Knight",Unpublished ms (word),,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Liliales,Liliaceae,,Geophyte,
+Herbaceous perennial,Allium tricoccum,Nault & Gagnon,J Ecol,1993,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Liliales,Liliaceae,Allium tuberosum,Geophyte,Bulb
+Herbaceous perennial,Allium vineale,"Burns, Pardini, Schutzenhofer, Chung, Seidler & Knight",Unpublished ms (word),,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Liliales,Liliaceae,,Geophyte,
+Tree,Alnus indicata subspp. rugosa,Huenneke & Marks,Ecol,1987,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Liliales,Liliaceae,,Mesophanerophyte,
+Succulent,Aloe peglerae,Pfab & Scholes,Biol Cons,2004,Plantae,Magnoliophyta,Angiosperm,Monocot,Magnoliopsida,Asparagales,Aloaceae,Aloe peglerae,Chamaephyte,
+Shrub,Ambrosia deltoidea,Goldberg & Turner,Ecol,1986,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Ambrosia deltoidea,Nanophanerophyte,Shrub
+Shrub,Ambrosia dumosa,"Miriti, Wright & Howe",Ecol Monog,2001,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Ambrosia dumosa,Nanophanerophyte,monoecious perenial shrub
+Herbaceous perennial,Anacamptis pyramidalis,"Mozek, Colling & Matthies",Conference talk,2010,Plantae,Magnoliophyta,Angiosperm,Monocot,Magnoliopsida,Asparagales,Orchidaceae,,Hemicryptophyte,
+Herbaceous perennial,Anarrhinum fruticosum,"Iriondo, Albert, Gimenez, Lozano & Escudero",Book,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malpighiales,Scrophulariaceae,,Chamaephyte,
+Bryophyte,Anastrophyllum hellerianum,During,Lind,2006,Plantae,Hepatophyta,.,.,Jungermanniopsida,Jungermanniales,Jungermanniaceae,,Epiphyte,
+Annual,Andropogon brevifolius,"Canales, Trevisan, Silva & Caswell",Acta Oeco,1994,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,Schizachyrium brevifolium,Therophyte,
+Herbaceous perennial,Andropogon semiberbis,"Silva, Raventos & Caswell",J Ecol,1991,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,Schizachyrium sanguineum sanguineum,Hemicryptophyte,Tillers
+Annual,Androsace elongata,Dostal,J Veg Sci,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Primulaceae,Androsace elongata,Therophyte,Forb
+Herbaceous perennial,Androsace pyrenaica,"Garcia, Guzman & Goñi",Biol Cons,2002,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Primulaceae,,Hemicryptophyte,Rosette
+Herbaceous perennial,Androsace vitaliana,"Iriondo, Albert, Gimenez, Lozano & Escudero",Book,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Primulaceae,,Chamaephyte,
+Herbaceous perennial,Anemone patens,Williams & Crone,Ecol,2006,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ranunculales,Ranunculaceae,,Geophyte,Rhizome
+Tree,Annamocarya sinensis,"Chien, Zuidema & Nghia",Popul Ecol,2008,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malvales,Thymelaceae,,Macrophanerophyte,
+Herbaceous perennial,Anthoxanthum odoratum,Freville & Silvertown,Plant Ecol,2005,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,Anthoxanthum odoratum,Hemicryptophyte,Tillers
+Herbaceous perennial,Anthyllis alpicola,"Marcante, Winkler, Erschbamer",,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,,Hemicryptophyte,
+Herbaceous perennial,Anthyllis vulneraria,"Bastrenta, Lebreton & Thompson",J Ecol,1995,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,Anthyllis vulneraria,Hemicryptophyte,Rosette
+Herbaceous perennial,Anthyllis vulneraria (2),Bastrenta et al.,J Ecol,1995,,,,,,,,,,
+Herbaceous perennial,Antirrhinum lopesianum,"Iriondo, Albert, Gimenez, Lozano & Escudero",Book,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malpighiales,Scrophulariaceae,,Chamaephyte,
+Herbaceous perennial,Antirrhinum subbaeticum,"Iriondo, Albert, Gimenez, Lozano & Escudero",Book,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malpighiales,Scrophulariaceae,,Chamaephyte,
+Tree,Aquilaria crassna,"Zhang, Brockelman & Allen",Biol Cons,2008,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malvales,Thymelaceae,,Macrophanerophyte,Monopodial
+Tree,Aquilaria malaccensis,Soehartono & Newton,Biol Cons,2001,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malvales,Thymelaceae,,Macrophanerophyte,Monopodial
+Tree,Aquilaria microcarpa,Soehartono & Newton,Biol Cons,2001,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malvales,Thymelaceae,,Macrophanerophyte,Monopodial
+Herbaceous perennial,Aquilegia chaplinei,Stubben,PhD thesis,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ranunculales,Ranunculaceae,Aquilegia chrysantha chaplinei,Hemicryptophyte,Rosette
+Herbaceous perennial,Aquilegia chrysantha,Stubben,PhD thesis,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ranunculales,Ranunculaceae,Aquilegia chrysantha,Hemicryptophyte,Rosette
+Herbaceous perennial,Aquilegia longissima,Stubben,PhD thesis,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ranunculales,Ranunculaceae,Aquilegia longissima,Hemicryptophyte,Rosette
+Herbaceous perennial,Aquilegia subspp.,Stubben & Milligan,J Stat Soft,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ranunculales,Ranunculaceae,,Hemicryptophyte,
+Herbaceous perennial,Arabidopsis lyrata,"Vergeer, Jongejans",,,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Brassicales,Brassicaceae,,Hemicryptophyte,
+Annual,Arabidopsis thaliana,Metcalf,Unpublished,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Brassicales,Brassicaceae,Arabidopsis thaliana,Therophyte,
+Herbaceous perennial,Arabis alpina,Florence,,,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Brassicales,Brassicaceae,Arabis alpina,Chamaephyte,
+Herbaceous perennial,Arabis fecunda,Lesica & Young,Amer J Bot,1995,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Brassicales,Brassicaceae,Arabis fecunda,Hemicryptophyte,Rosette
+Tree,Araucaria cunninghamii,Enright & Ogden,Aust J Ecol,1979,Plantae,Pinophyta,Gymnosperm,.,Pinopsida,Pinales,Araucariaceae,Araucaria cunninghamii,Macrophanerophyte,
+Tree,Araucaria hunsteinii,Enright,Aust J Ecol,1982,Plantae,Pinophyta,Gymnosperm,.,Pinopsida,Pinales,Araucariaceae,Araucaria hunsteinii,Macrophanerophyte,
+Tree,Araucaria laubenfelsii,"Rigg, Enright, Jaffre & Perry",Biotrop,2010,Plantae,Pinophyta,Gymnosperm,.,Pinopsida,Pinales,Araucariaceae,Araucaria hunsteinii,Macrophanerophyte,
+Tree,Araucaria muelleri,Enright,Author working on paper,,Plantae,Pinophyta,Gymnosperm,.,Pinopsida,Pinales,Araucariaceae,,,
+Herbaceous perennial,Arctophila fulva var. pendulina,"Rautiainen, Laine, Aikio, Aspi, Siira & Hyvärinen",Appl Veg Sci,2004,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,,Geophyte,Clonal grass
+Shrub,Ardisia elliptica,Koop & Horvitz,Ecol,2005,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Myrsinaceae,Ardisia elliptica,Nanophanerophyte,shrub
+Shrub,Ardisia escallonioides,Pascarella & Horvitz,Ecol,1998,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Myrsinaceae,,Nanophanerophyte,understory shrub
+Herbaceous perennial,Arenaria bolosii,"Iriondo, Albert, Gimenez, Lozano & Escudero",Book,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Caryophyllaceae,,Chamaephyte,
+Annual,Arenaria serpyllifolia,Dostal,J Veg Sci,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Caryophyllaceae,Arenaria serpyllifolia,Therophyte,Forb
+Shrub,Argyroxiphium sandwicense,Forsyth,Oeco,2002,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Argyroxiphium sandwicense,Nanophanerophyte,"Basal rosette, then produce stalk and die after settign seed."
+Succulent,Ariocarpus scaphirostris,"Mandujano, Verhulst, Carrillo-Angeles & Golubov",Int J Plant Sci,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Cactaceae,,Chamaephyte,
+Herbaceous perennial,Arisaema serratum,Kinoshita,Pl Spp Biol,1987,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Alismatales,Araceae,Arisaema serratum,Geophyte,"Tubers, bulb"
+Herbaceous perennial,Arisaema triphyllum,Bierzychudek,Ecol Monog,1982,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Alismatales,Araceae,Arisaema triphyllum,Helophyte,Corm
+Herbaceous perennial,Aristida bipartita,O'Connor,J Appl Ecol,1993,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,,Geophyte,"Tussock, rhizomes"
+Herbaceous perennial,Armeria caespitosa,"Garcia-Camacho, Albert & Escudero",Ecography,In review,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Plumbaginaceae,Armeria maritima,Hemicryptophyte,
+Herbaceous perennial,Armeria maritima,Lefebvre & Chandler-Mortimer,J Appl Ecol,1984,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Plumbaginaceae,Armeria maritima,Hemicryptophyte,Tufted herb
+Herbaceous perennial,Armeria merinoi,"Iriondo, Albert, Gimenez, Lozano & Escudero",Book,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Plumbaginaceae,Armeria maritima,Chamaephyte,
+Herbaceous perennial,Arnica angustifolia,Jakalaniemi,Env & Exp Bot,2011,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,,Hemicryptophyte,
+Herbaceous perennial,Artemisia genipi,"Marcante, Winkler, Erschbamer",Annals Bot,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,,Hemicryptophyte,
+Shrub,Artemisia ordosica,Li & Zuidema,J Ecol,2011,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,,Nanophanerophyte,
+Herbaceous perennial,Asarum canadense,Damman & Cain,J Ecol,1998,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Piperales,Aristolochiaceae,Asarum canadense,Geophyte,"Rhyzome, clones"
+Herbaceous perennial,Asclepias meadii,"Bell, Bowles & McEachern",Book,2003,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Gentianales,Apocynaceae,,Geophyte,
+Fern,Asclepium adulterinum,"Buchrova, Munzbergova & Tajek",Amer J Bot,2010,Plantae,Pteridophyta,.,.,Pteridopsida,Blechnales,Aspleniaceae,,Epiphyte,
+Fern,Asclepium cuneifolium,"Buchrova, Munzbergova & Tajek",Amer J Bot,2010,Plantae,Pteridophyta,.,.,Pteridopsida,Blechnales,Aspleniaceae,,Epiphyte,
+Algae,Ascophyllum nodosum,"Pavia, Toth & Aberg",Ecol,2002,Chromalveolata,Heterokontophyta,.,.,Phaeophyceae,Fucales,Fucaceae,Ascophyllum nodosum,Hydrophyte,
+Epiphyte,Aspasia principissa,Zotz & Schmidt,Biol Cons,2006,Plantae,Magnoliophyta,Angiosperm,Monocot,Magnoliopsida,Asparagales,Orchidaceae,Aspasia principissa,Epiphyte,Bulb
+Fern,Asplenium scolopendrium,Bremer & Jongejans,Popul Ecol,2010,Plantae,Pteridophyta,.,.,Pteridopsida,Blechnales,Aspleniaceae,Asplenium scolopendrium,Epiphyte,Fern
+Herbaceous perennial,Aster amellus,Munzbergova,Ann Bot,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,,Hemicryptophyte,Ramet
+Herbaceous perennial,Aster kantoensis,Shimada & Ishihama,Popul Ecol,2000,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,,Hemicryptophyte,
+Herbaceous perennial,Aster pyrenaeus,"Iriondo, Albert, Gimenez, Lozano & Escudero",Book,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,,Hemicryptophyte,
+Herbaceous perennial,Astragalus alopecurus,"Florence, Nicole",,,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,Astragalus alopecurus,Hemicryptophyte,
+Herbaceous perennial,Astragalus cremnophylax var. cremnophylax,"Maschinski, Frye & Rutman",Cons Biol,1997,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,,Hemicryptophyte,Rock-hugging
+Herbaceous perennial,Astragalus michauxii,Wall,Plant Ecol,2012,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,,Hemicryptophyte,
+Herbaceous perennial,Astragalus peckii,"Martin, Meinke",Popul Ecol,2012,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,,Hemicryptophyte,
+Herbaceous perennial,Astragalus scaphoides,Lesica,Great Bas Nat,1995,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,Astragalus scaphoides,Hemicryptophyte,Branched caudex
+Herbaceous perennial,Astragalus termolsianus,"Iriondo, Albert, Gimenez, Lozano & Escudero",Book,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,,Hemicryptophyte,
+Herbaceous perennial,Astragalus tyghensis,Kaye & Pyke,Ecol,2003,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,Astragalus tyghensis,Hemicryptophyte,
+Palm,Astrocaryum aculeatissimum,"Portela, Bruna & Santos",Biodiv & Cons,2010,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Arecales,Arecaceae,Astrocaryum mexicanum,,
+Palm,Astrocaryum mexicanum,"Pinero, Martinez & Sarukhan",Ecol,1984,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Arecales,Arecaceae,Astrocaryum mexicanum,Mesophanerophyte,Monopodial
+Shrub,Atriplex acanthocarpa,"Verhulst, Montana, Mandujano & Franco",Oeco,2008,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Chenopodiaceae,Atriplex acanthocarpa,Nanophanerophyte,erect suffrutescent plant
+Shrub,Atriplex canescens,"Verhulst, Montana, Mandujano & Franco",Oeco,2008,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Chenopodiaceae,Atriplex canescens,Nanophanerophyte,Shrub
+Shrub,Atriplex vesicaria,Hunt,J Appl Ecol,2001,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Chenopodiaceae,Atriplex vesicaria,Nanophanerophyte,low woody shrub
+Palm,Attalea humilis,Souza & Martins,Biodiv & Cons,2004,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Arecales,Arecaceae,,Mesophanerophyte,
+Herbaceous perennial,Austrostipa aristiglumis,"Godfree, Lepschi, Rside, Bolger, Robertson, Marshall & Carnegie",Global Change Biol,2011,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,,,
+Tree,Avicennia germinans,"Lopez-Hoffman, Ackerly, Anten, Denoyer &Ramos",J Ecol,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Avicenniaceae,Avicennia germinans,Mesophanerophyte,
+Tree,Avicennia marina,Burns & Ogden,Aust J Ecol,1985,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Avicenniaceae,Avicennia marina,Mesophanerophyte,
+Herbaceous perennial,Balsamorhiza sagittata,"Crone, Marler, & Pearson",Appl Ecol,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Balsamorhiza sagittata,Hemicryptophyte,
+Shrub,Banksia ericifolia,Bradstock & O'Connell,Aust J Ecol,1988,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Proteales,Proteaceae,,Nanophanerophyte,Monopodial
+Shrub,Banksia goodii,"Higgins, Pickett & Bond",TREE,2000,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Proteales,Proteaceae,,Nanophanerophyte,
+Tree,Bertholletia excelsa,Zuidema & Boot,J Trop Ecol,2002,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Lecythidaceae,Bertholletia excelsa,Macrophanerophyte,Monopodial
+Shrub,Betula nana,Ebert & Ebert,Vegetatio,1989,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fagales,Betulaceae,Betula nana,Nanophanerophyte,"shrub, can't distinguish individuals because they grow close together"
+Tree,Betula pendula,Maillette,J Appl Ecol,1982,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fagales,Betulaceae,Betula nana,,
+Tree,Betula pubescens subspp. tortuosa,"Lehtila, Tuomi & Sulkinoja",Ecol,1994,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fagales,Betulaceae,Betula nana,,
+Herbaceous perennial,Boltonia decurrens,"Smith, Caswell & Mettler-Cherry",Ecol Appl,2005,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Boltonia decurrens,Chamaephyte,Rosette
+Palm,Borassus aethiopum,"Barot,  Gignoux & Vuattoux",J Trop Ecol,2000,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Arecales,Arecaceae,Borassus aethiopum,Macrophanerophyte,Monopodial
+Herbaceous perennial,Borderea chouardii,Garcia,Cons Biol,2003,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Dioscoreales,Dioscoreaceae,Dioscorea chouardii,Geophyte,"tubers, geophyte"
+Herbaceous perennial,Borderea pyrenaica,Garcia & Antor,Int J Plant Sci,1995,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Dioscoreales,Dioscoreaceae,Dioscorea pyrenaica,Geophyte,"tuber, tiller, geophyte"
+Tree,Boswellia papyrifera,"Groenendijk, Eshete, Sterck, Zuidema & Bongers",J Appl Ecol,2012,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Sapindales,Burseraceae,Boswellia papyrifera,Mesophanerophyte,
+Herbaceous perennial,Bothriochloa insculpta,O'Connor,J Appl Ecol,1993,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,Bothriochloa insculpta,Chamaephyte,tufted herb
+Herbaceous perennial,Bothriochloa ischaemum,Gabbard,PhD thesis,2003,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,Bothriochloa ischaemum,Hemicryptophyte,Tiller
+Herbaceous perennial,Bouteloua rigidiseta,"Fowler, Overath & Pease",Ecol,2006,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,Bouteloua rigidiseta,Hemicryptophyte,"tiller, bunchgrass"
+Herbaceous perennial,Brassica insularis,"Noel, Maurice, Mignot, Glemin, Carbonell, Justy, Guyot, Olivieri & Petit",Cons Genet,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Brassicales,Brassicaceae,,,
+Annual,Brassica napus,"Garnier, Lecomte",Ecol Model,2006,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Brassicales,Brassicaceae,Brassica napus,Therophyte,Rosette
+Herbaceous perennial,Braya fernaldii,Squires,PhD thesis,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Brassicales,Brassicaceae,,Chamaephyte,
+Herbaceous perennial,Braya longii,Squires,PhD thesis,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Brassicales,Brassicaceae,,Chamaephyte,
+Annual,Bromus tectorum,Griffith,J Ecol,2008,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,Bromus tectorum,Therophyte,Forb
+Tree,Brosimum alicastrum,Peters,PhD thesis,1989,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Rosales,Moraceae,Brosimum alicastrum,Macrophanerophyte,
+Tree,Bursera glabrifolia,"Hernandez-Apolinar, Valverde & Purata",Forest Ecol & Manag,2006,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Burseraceae,,Macrophanerophyte,Monocolumnar
+Herbaceous perennial,Calamagrostis canescens,"Logofet, Ulanova, Klochkova, Demidova",Zhurnal obshcheA biologii,2006,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,,Hemicryptophyte,tiller?
+Liana,Calamus rhabdocladus,Binh,PhD thesis,2009,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Arecales,Arecaceae,Calamus rhabdocladus,Mesophanerophyte,
+Herbaceous perennial,Calathea marantifolia,Matlaga,PhD thesis,2008,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Zingiberales,Marantaceae,Calathea marantifolia,Geophyte,
+Herbaceous perennial,Calathea micans,Le Corff & Horvitz,Ecol Model,2005,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Zingiberales,Marantaceae,Calathea micans,Geophyte,"Rhizome, shoots"
+Herbaceous perennial,Calathea ovandensis,Horvitz & Schemske,Ecol Monog,1995,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Zingiberales,Marantaceae,Calathea ovandensis,Geophyte,"rhizome, tuber"
+Tree,Callitris intratropica,Price & Bowman,J Biogeog,1994,Plantae,Pinophyta,Gymnosperm,.,Pinopsida,Pinales,Cupressaceae,Callitris columellaris,Macrophanerophyte,Monopodial
+Shrub,Calluna vulgaris,Scandrett & Gimmingham,Vegetatio,1989,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Ericaceae,Calluna vulgaris,Chamaephyte,Shrub
+Tree,Callycophyllum spruceanum,Fortini & Zarin,Forest Ecol & Manag,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Gentianales,Rubiaceae,,,
+Tree,Calocedrus decurrens,van Mantgem & Stepheson,Ecol,2005,Plantae,Pinophyta,Gymnosperm,.,Pinopsida,Pinales,Pinaceae,Calocedrus decurrens,Macrophanerophyte,
+Tree,Calocedrus macrolepis,"Chien, Zuidema & Nghia",Popul Ecol,2008,Plantae,Pinophyta,Gymnosperm,.,Pinopsida,Pinales,Cupressaceae,Calocedrus macrolepis,Macrophanerophyte,
+Herbaceous perennial,Calochortus albus,Fiedler,J Ecol,1987,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Liliales,Liliaceae,Calochortus albus,Geophyte,Bulb
+Herbaceous perennial,Calochortus lyallii,"Miller, Antos & Allen",Plant Ecol,2007,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Liliales,Liliaceae,Calochortus lyallii,Geophyte,Bulb
+Herbaceous perennial,Calochortus macrocarpus,"Miller, Antos & Allen",Plant Ecol,2007,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Liliales,Liliaceae,Calochortus macrocarpus,Geophyte,Bulb
+Herbaceous perennial,Calochortus obispoensis,Fiedler,J Ecol,1987,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Liliales,Liliaceae,Calochortus obispoensis,Geophyte,bulb
+Herbaceous perennial,Calochortus pulchellus,Fiedler,J Ecol,1987,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Liliales,Liliaceae,Calochortus pulchellus,Geophyte,bulb
+Herbaceous perennial,Calochortus tiburonensis,Fiedler,J Ecol,1987,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Liliales,Liliaceae,Calochortus tiburonensis,Geophyte,bulb
+Tree,Camellia japonica,"Shimatani, Kubota, Araki, Aikawa & Manabe",Plant Spp Biol,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Theaceae,Camellia japonica,Mesophanerophyte,
+Herbaceous perennial,Campanula americana,Wardle,Ecol,1998,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Campanulaceae,Campanulastrum americanum,Hemicryptophyte,Rosette
+Herbaceous perennial,Campanula thrysoides,"Kuss, Rees, Aegisdottir, Ellner & Stocklin",J Ecol,2008,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Campanulaceae,Campanulastrum americanum,,
+Annual,Campanulastrum americanum,Galloway & Etterson,Sci,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Campanulaceae,Campanulastrum americanum,Therophyte,
+Shrub,Caragana intermedia,Li & Zuidema,PhD thesis,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,Caragana korshinskii,Nanophanerophyte,
+Tree,Carapa guianensis,Fortini & Zarin,Forest Ecol & Manag,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Sapindales,Meliaceae,,,
+Tree,Carapa guianensis 2,"Klimas, Cropper Jr., Kainer, Wadt",Ecol Modell,2012,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Sapindales,Meliaceae,,,
+Herbaceous perennial,Carduus nutans,"Jongejans, Sheppard & Shea",J Appl Ecol,2006,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Carduus nutans,Hemicryptophyte,Rosette
+Herbaceous perennial,Carduus nutans 2,Shea & Kelly,Ecol Appl,1998,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Carduus nutans,Hemicryptophyte,
+Herbaceous perennial,Carduus nutans 3,Shea & Kelly,,2005,,,,,,,,,,
+Herbaceous perennial,Carex aquatilis subspp. stans,"Tolvanen, Schroderus & Henry",J Veg Sci,2001,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Cyperaceae,,Geophyte,"Tiller, rhizomatous sedge"
+Herbaceous perennial,Carex bigelowii,Carlsson & Callaghan,Oikos,1991,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Cyperaceae,Carex bigelowii,Geophyte,"Tiller, rhizomatous"
+Herbaceous perennial,Carex humilis,Wikberg & Svensson,Plant Ecol,2006,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Cyperaceae,Carex humilis,Geophyte,"Tiller, rhizomatous sedge"
+Herbaceous perennial,Carex membranaceae,"Tolvanen, Schroderus & Henry",J Veg Sci,2001,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Cyperaceae,,Geophyte,"Tiller, rhizomatous sedge"
+Herbaceous perennial,Carlina vulgaris,"Lofgren, Eriksson & Lehtila",Ann Bot Fen,2000,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Carlina vulgaris,Hemicryptophyte,Rosette
+Succulent,Carnegiea gigantea,Steenbergh,,,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Cactaceae,Carnegiea gigantea,Macrophanerophyte,
+Herbaceous perennial,Carum carvi,Kiviniemi,Popul Ecol,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Apiales,Caryocaraceae,Carum carvi,Hemicryptophyte,
+Tree,Caryocar brasiliense,Collevatti & Hay,J Ecol,2011,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malpighiales,Caryocaraceae,,,
+Shrub,Cassia nemophila,Silander,Oeco,1983,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,Cassia nemophila,Nanophanerophyte,Shrub
+Tree,Castanea dentata,Davelos & Jarosez,J Ecol,2004,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fagales,Fagaceae,Castanea dentata,Macrophanerophyte,Monopodial
+Epiphyte,Catopsis sessiliflora,"Winkler, Hulber & Hietz",Bas & Appl Ecol,2007,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Bromeliaceae,Catopsis sessiliflora,Epiphyte,Rosette
+Tree,Cecropia obtusifolia,Alvarez-Buylla,Amer Nat,1994,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Rosales,Cecropiaceae,Cecropia obtusifolia,Macrophanerophyte,Monopodial
+Tree,Cedrela odorata,"Zuidema, Brienen, During, Guneralp",Amer Nat,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Sapindales,Meliaceae,Cedrela odorata,Macrophanerophyte,
+Herbaceous perennial,Centaurea corymbosa,"Freville, Colas, Riba, Caswell, Mignot, Imbert & Olivieri",Ecol,2004,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,,Hemicryptophyte,Rosette
+Herbaceous perennial,Centaurea horrida,"Pisanu, Farris, Filigheddu, Begona-Garcia",Plant Ecol,2012,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Centaurea jacea,Hemicryptophyte,
+Herbaceous perennial,Centaurea jacea,Jongejans & Kroon,J Ecol,2005,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Centaurea jacea,Hemicryptophyte,Rosette
+Herbaceous perennial,Centaurea maculosa,Emery & Gross,J Appl Ecol,2005,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Centaurea biebersteinii,Hemicryptophyte,Rosette
+Herbaceous perennial,Centaurea solstitialis,Swope,PhD thesis,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Centaurea biebersteinii,Hemicryptophyte,
+Annual,Centaurea stoebe,"Hahn, Buckley & Muller-Schaerer",Ecol Lett,2012,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Centaurea biebersteinii,Therophyte,
+Succulent,Cephalocereus columna-trajani,Zavala-Hurtado & Diaz-Solis,J Arid Env,1995,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Cactaceae,,Mesophanerophyte,Columnar
+Annual,Cerastium fontanum,"Burns, Pardini, Schutzenhofer, Chung, Seidler & Knight",Unpublished ms (word),,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Apiales,Apiaceae,,Therophyte,
+Annual,Cerastium pumilum,"Burns, Pardini, Schutzenhofer, Chung, Seidler & Knight",Unpublished ms (word),,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Apiales,Apiaceae,,Therophyte,
+Palm,Ceratozamia matudai,"Perez-Farrera, Quintana-Ascencio & Salvatierra-Izaba",J Torrey Bot Soc,2000,Plantae,Cycadophyta,Gymnosperm,.,Cycadophyta,Cycadales,Zamiaceae,,,
+Palm,Ceratozamia mirandae,"Perez-Farrera, Vovides, Octvio-Aguilar, et al",Plant Ecol,2006,Plantae,Cycadophyta,Gymnosperm,.,Cycadophyta,Cycadales,Zamiaceae,Ceratozamia mirandae,Nanophanerophyte,Monopodial
+Herbaceous perennial,Chaerophyllum aureum,"Magda, Duru & Theau",Weed Sci,2004,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Apiales,Apiaceae,,,
+Herbaceous perennial,Chamaecrista keyensis,"Liu, Menges & Quintana-Ascencio",Ecol Appl,2005,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,Chamaecrista lineata keyensis,Hemicryptophyte,"Subshrub, tillers"
+Palm,Chamaedorea elegans,"Valverde, Hernandez-Apolinar, & Mendoza-Amaro",J Sust Forestry,2006,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Arecales,Arecaceae,Chamaedorea elegans,Nanophanerophyte,
+Palm,Chamaedorea radicalis,Berry,Ecol,2008,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Arecales,Arecaceae,Chamaedorea radicalis,Nanophanerophyte,Palm
+Palm,Chamaedorea radicalis 2,Endress,Ecol Appl,2004,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Arecales,Arecaceae,Chamaedorea radicalis,Nanophanerophyte,Palm
+Herbaceous perennial,Chamaelirium luteum,Meagher,Ecol,1982,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Liliales,Liliaceae,Chamaelirium luteum,Hemicryptophyte,"Rosette, no clones"
+Herbaceous perennial,Cheirolophus metlesicsii,"Iriondo, Albert, Gimenez, Lozano & Escudero",Book,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,,,
+Annual,Chenopodium album,"Davis, Landis, Nuzzo, Blossey, Gerber & Hinz",Weed Sci,2006,Plantae,Magnoliophyta,Angiosperm,Eudicot,Liliopsida,Zingiberales,Marantaceae,,,
+Tree,Chlorocardium rodiei,"ter Steege, Boot, Brouwer, Hammond, Vanderhout, Jetten, Khan, Polak, Raaimakers & Zagt",Ph.D Thesis,1997,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Laurales,Lauraceae,,Macrophanerophyte,Monopodial
+Tree,Choerospodnias axillaris,"Brodie, Helmy, Brockelman & Maron",Ecol Appl,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Sapindales,Anacardiaceae,,Mesophanerophyte,
+Annual,Chorizanthe pungens pungens,Fox,Cons Biol,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Polygonaceae,Chorizanthe pungens pungens,Therophyte,
+Herbaceous perennial,Cimicifuga elata,Kaye & Pyke,Ecol,2003,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ranunculales,Ranunculaceae,Cimicifuga elata,Geophyte,Rhizome
+Herbaceous perennial,Cimicifuga rubifolia,Cook,PhD thesis,1993,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ranunculales,Ranunculaceae,Cimicifuga elata,,
+Tree,Cinnamomum camphora,Zeng,PhD thesis,2001,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Laurales,Lauraceae,Cinnamomum camphora,Mesophanerophyte,
+Herbaceous perennial,Cirsium acaule,Munzbergova,Amer J Bot,2005,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,,Hemicryptophyte,spinose-dentate lobes
+Herbaceous perennial,Cirsium acaule 2,"Bullock, White, Prudhomme, Tansey, Perea & Hooftman",J Ecol,2011,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,,,
+Herbaceous perennial,Cirsium arvense,"Davis, Landis, Nuzzo, Blossey, Gerber & Hinz",Weed Sci,2006,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,,Hemicryptophyte,
+Herbaceous perennial,Cirsium canescens,"Rose, Louda & Rees",Ecol,2005,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Cirsium canescens,Hemicryptophyte,
+Herbaceous perennial,Cirsium dissectum,"Jongejans, de Vere & de Kroon",Plant Ecol,2008,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,,Hemicryptophyte,Rosettes
+Herbaceous perennial,Cirsium palustre,Ramula,Acta Oeco,2008,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Cirsium palustre,Hemicryptophyte,Rosette (just one)
+Herbaceous perennial,Cirsium pannonicum,Munzbergova,Amer J Bot,2005,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,,Hemicryptophyte,Spinules
+Herbaceous perennial,Cirsium perplexans,Dodge,PhD thesis,2005,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,,,
+Herbaceous perennial,Cirsium pitcheri,"Louda, Rand, Arnett, McClay, Shea & McEachern",Ecol Appl,2005,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,,,
+Herbaceous perennial,Cirsium pitcheri2,"Bell, Bowles & McEachern",Book,2003,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,,,
+Herbaceous perennial,Cirsium scariosum,Dodge,PhD thesis,2005,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,,,
+Herbaceous perennial,Cirsium undulatum,"Dalgleish, Koons, & Adler",J Ecol,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Cirsium undulatum,Hemicryptophyte,Forb
+Herbaceous perennial,Cirsium undulatum var. tracyi,Dodge,PhD thesis,2005,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,,,
+Herbaceous perennial,Cirsium vulgare,"Bullock, Hill & Silvertown",J Ecol,1994,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Cirsium vulgare,Hemicryptophyte,Rosette
+Herbaceous perennial,Cirsium vulgare 2,"Tenhumberg, Louda, Eckberg, Takahashi",J Appl Ecol,2008,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Cirsium vulgare,Hemicryptophyte,Rosette
+Herbaceous perennial,Cirsium vulgare 3,"Forcella, Wood",Weed Res,1986,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Cirsium vulgare,Hemicryptophyte,Rosette
+Annual,Clarkia xantiana subspp. xantiana,"Eckhart, Geber, Morris, Fabio, Tiffin & Moeller",Am Nat,2011,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Myrtales,Onagraceae,,,
+Herbaceous perennial,Cleistes varicata var. bifaria,Wells & Willems,Population Ecology of Terrestrial Orchids,1991,Plantae,Magnoliophyta,Angiosperm,Monocot,Magnoliopsida,Asparagales,Orchidaceae,,Geophyte,Bulb
+Herbaceous perennial,Cleistes varicata var. divaricata,Wells & Willems,Population Ecology of Terrestrial Orchids,1991,Plantae,Magnoliophyta,Angiosperm,Monocot,Magnoliopsida,Asparagales,Orchidaceae,,Geophyte,Bulb
+Herbaceous perennial,Cleome droserifolia,,Population Ecology of Terrestrial Orchids,1991,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Brassicales,Capparaceae,,Chamaephyte,
+Herbaceous perennial,Cleome droserifolia,Hegazy ,from Ramula,,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Brassicales,Capparaceae,,Chamaephyte,
+Shrub,Clidemia hirta,DeWalt,Biol Inv,2006,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Myrtales,Melastomataceae,Clidemia hirta,Nanophanerophyte,"densely  branching,  slightly woody shrub that grows to a maximum of 2–3 m in  height "
+Herbaceous perennial,Clintonia borealis,"Pitelka, Hansen & Ashmun",J Ecol,1985,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Liliales,Liliaceae,Clintonia borealis,Geophyte,Rhizome
+Palm,Coccothrinax readii,Olmsted & Alvarez-Buylla,Ecol Appl,1995,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Arecales,Arecaceae,Coccothrinax readii,Mesophanerophyte,Columnar
+Herbaceous perennial,Cochlearia bavarica,Abs,Fol Geobot,1999,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Brassicales,Brassicaceae,,Hemicryptophyte,
+Herbaceous perennial,Cochlearia pyrenaica,Abs,Fol Geobot,1999,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Brassicales,Brassicaceae,,Hemicryptophyte,
+Herbaceous perennial,Colchicum autumnale,Winter,,,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Liliales,Liliaceae,,,
+Annual,Collinsia verna,Kalinz & McPeek,Ecol,1992,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malpighiales,Scrophulariaceae,Collinsia verna,Therophyte,Forb
+Herbaceous perennial,Commelina benghalensis,Burns,Ecol Appl,2008,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Commelinales,Commelinaceae,,Hemicryptophyte,
+Herbaceous perennial,Commelina bracteosa,Burns,Ecol Appl,2008,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Commelinales,Commelinaceae,Commelina bracteosa,Hemicryptophyte,
+Annual,Conyza canadensis,"Bullock, White, Prudhomme, Tansey, Perea & Hooftman",J Ecol,2011,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,,,
+Herbaceous perennial,Corallorhiza trifida,"Iriondo, Albert, Gimenez, Lozano & Escudero",Book,2009,Plantae,Magnoliophyta,Angiosperm,Monocot,Magnoliopsida,Asparagales,Orchidaceae,,Geophyte,
+Shrub,Cornus florida,Vejdani,PhD thesis,2006,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Cornales,Cornaceae,,,
+Shrub,Cornus racemosa,Boeken & Canham,J Ecol,1995,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Cornales,Cornaceae,,,
+Succulent,Coryphanta robbinsorum,"Schmalzel, Reichenbacher & Rutman",Madrono,1995,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Cactaceae,,Chamaephyte,Globular
+Succulent,Coryphanta werdermannii,"Portilla-Alonso, Martorell",J Arid Env,2011,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Cactaceae,,Chamaephyte,
+Herbaceous perennial,Cryptantha flava,"Lucas, Casper & Forseth",J Ecol,2008,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Boraginaceae,Cryptantha flava,Hemicryptophyte,Rosette
+Tree,Cupressus forbesii,Gouvenain & Ansary,Southw Nat,2006,Plantae,Pinophyta,Gymnosperm,.,Pinopsida,Pinales,Cupressaceae,,,
+Herbaceous perennial,Cynoglossum officinalis,Boorman & Fuller,New Phyto,1984,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Boraginaceae,,Hemicryptophyte,
+Herbaceous perennial,Cynoglossum virginianum,"Cipollini, Whigham & O'Neill",Plant Spp Biol,1993,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Boraginaceae,Cynoglossum virginianum,Hemicryptophyte,Rossete. Non clonal
+Herbaceous perennial,Cynoglossum vulgare,,,,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Boraginaceae,Cynoglossum virginianum,Hemicryptophyte,Rossete. Non clonal
+Herbaceous perennial,Cypripedium acaule,Cochran,Ecol Monog,1992,Plantae,Magnoliophyta,Angiosperm,Monocot,Magnoliopsida,Asparagales,Orchidaceae,Cypripedium acaule,Geophyte,Basal leaves
+Herbaceous perennial,Cypripedium calceolus,"Nicole, Brzosko & Till-Bottraud",J Ecol,2005,Plantae,Magnoliophyta,Angiosperm,Monocot,Magnoliopsida,Asparagales,Orchidaceae,Cypripedium calceolus,Geophyte,"Rhizomatous, clones"
+Herbaceous perennial,Cypripedium fasciculatum,"Thorpe, Stanley, Kayne, Latham",IAE,2011,Plantae,Magnoliophyta,Angiosperm,Monocot,Magnoliopsida,Asparagales,Orchidaceae,,,
+Herbaceous perennial,Cypripedium lentiginosum,Zhongjian et al.,Acta Ecol Sinica,2008,Plantae,Magnoliophyta,Angiosperm,Monocot,Magnoliopsida,Asparagales,Orchidaceae,Cypripedium lentiginosum,Geophyte,Rhizome
+Algae,Cystoseira humilis,Engelen & Santos,J Ecol,2009,Chromalveolata,Heterokontophyta,.,.,Phaeophyceae,Fucales,Sargassaceae,Cystoseira humilis,,
+Shrub,Cytisus scoparius,Neubert & Parker,Risk Anal,2004,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,Cytisus scoparius,Nanophanerophyte,large shrub
+Shrub,Cytisus scoparius 2,"Magda, Chambon-Dubreuil, Agreil, Gleizes & Jarry",GfÖ,2009,,,,,,,,,,
+Tree,Dacrydium elatum,"Chien, Zuidema & Nghia",Popul Ecol,2008,Plantae,Pinophyta,Gymnosperm,.,Pinopsida,Pinales,Podocarpaceae,Dacrydium elatum,Mesophanerophyte,
+Herbaceous perennial,Dactylorhiza lapponica,"Sletvold, Oien, & Moen",Biol Cons,2010,Plantae,Magnoliophyta,Angiosperm,Monocot,Magnoliopsida,Asparagales,Orchidaceae,Dactylorhiza lapponica,Hemicryptophyte,Rosette
+Liana,Daemonoropos cf. poilanei,Binh,PhD thesis,2009,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Arecales,Arecaceae,Calamus platyacanthoides,Mesophanerophyte,
+Palm,Daemonorops cf. poilanei,Bihn & Zuidema,PhD thesis,2009,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Arecales,Arecaceae,Daemonorops mollispina,Nanophanerophyte,
+Herbaceous perennial,Danthonia sericea,Moloney,Ecol,1988,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,Danthonia sericea,Hemicryptophyte,vegetative tilling
+Herbaceous perennial,Daphne rodriguezii,Rodriguez-Perez & Traveset,Oikos,2012,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malvales,Thymelaceae,,,
+Herbaceous perennial,Daucus carota,Verkaar & Schenkeveld,New Phyto,1984,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Apiales,Apiaceae,Daucus carota,Hemicryptophyte,Rosette
+Algae,Delisea pulchra,Wright & Steinberg,Ecol,2001,Chromalveolata,Heterokontophyta,.,.,Phaeophyceae,Dictyotales,Dictyotaceae,Delisea pulchra,,
+Herbaceous perennial,Delphinium bolosii,"Iriondo, Albert, Gimenez, Lozano & Escudero",Book,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ranunculales,Ranunculaceae,,,
+Tree,Dendropanax trifidus,"Shimatani, Kubota, Araki, Aikawa & Manabe",Plant Spp Biol,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Theaceae,Dendropanax trifidus,Mesophanerophyte,
+Liana,Desmoncus orthacanthos,"Escalante, Montana, & Orellana",Forest Ecol & Manag,2004,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Arecales,Arecaceae,Desmoncus orthacanthos,Macrophanerophyte,
+Herbaceous perennial,Dicerandra frutescens,"Menges, Quintana-Ascencio, Weekley & Gaoue",Biol Cons,2006,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Lamiaceae,Dicerandra frutescens,Chamaephyte,
+Tree,Dicorynia guianensis,"Picard, Mortier & Chagneau",Ecol Model,2008,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,Dicorynia guianensis,Mesophanerophyte,Monopodial
+Tree,Dicymbe altsonii,Zagt & Boot,Zagt PhD thesis 1997,1997,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,Dicymbe altsonii,Macrophanerophyte,Monopodial
+Herbaceous perennial,Digitalis purpurea,Baalen & Prins,Oeco,1983,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Plantaginaceae,Digitalis purpurea,Hemicryptophyte,Rosette
+Herbaceous perennial,Digitaria eriantha,O'Connor,J Appl Ecol,1993,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,Digitaria eriantha,Geophyte,Stoloniferous
+Epiphyte,Dimerandra emarginata,Zotz,Trop Ecol,1998,Plantae,Magnoliophyta,Angiosperm,Monocot,Magnoliopsida,Asparagales,Orchidaceae,Dimerandra emarginata,Epiphyte,Rhizome
+Palm,Dion merolae,"Lazaro-Zermeno, Gonzalez-Espinosa, Mendoza, Martinez-Ramos, Quintana-Ascencio",Forest Ecol & Manag,2010,Plantae,Cycadophyta,Gymnosperm,.,Cycadophyta,Cycadales,Zamiaceae,Dioon edule,,
+Palm,Dion sonorense,"Alvarez-Yepiz, Dovciak & Burquez",Biol Cons,2011,Plantae,Cycadophyta,Gymnosperm,.,Cycadophyta,Cycadales,Zamiaceae,Dioon edule,,
+Palm,Dioon edule,"Octavio-Aguilar, Gonzalez-Astorga & Vovides",Bot J Lin Soc,2008,Plantae,Cycadophyta,Gymnosperm,.,Cycadophyta,Cycadales,Zamiaceae,Dioon edule,Mesophanerophyte,Monopodial
+Herbaceous perennial,Dipsacus sylvestris,Caswell,Ecol,1977,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Dipsacales,Dipsacaceae,Dipsacus fullonum sylvestris,Hemicryptophyte,Rosette
+Herbaceous perennial,Dipsacus sylvestris 2,Caswell,Ecol,1977,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Dipsacales,Dipsacaceae,Dipsacus fullonum sylvestris,Hemicryptophyte,Rosette
+Herbaceous perennial,Disporum sessile,"Schoichi, Takenori, Shuichi & Akira","Differentiation Patterns in Higher Plants, AP",1987,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Liliales,Liliaceae,Disporum sessile,Hemicryptophyte,
+Herbaceous perennial,Disporum smilacinum,"Schoichi, Takenori, Shuichi & Akira","Differentiation Patterns in Higher Plants, AP",1987,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Liliales,Liliaceae,Disporum smilacinum,Hemicryptophyte,
+Tree,Distylium racemosum,"Manabe, Nishimura, Miura & Yamamoto",Plant Ecol,2000,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Saxifragales,Hamamelidaceae,,Mesophanerophyte,
+Shrub,Dodonaea angustifolia,Bekele,PhD thesis,2000,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Sapindales,Sapindaceae,,Nanophanerophyte,
+Herbaceous perennial,Dorycnium spectabile,"Iriondo, Albert, Gimenez, Lozano & Escudero",Book,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,,,
+Tree,Dracaena cinnabari,"Habrova, Cermak & Pavlis",Biol Cons,2009,Plantae,Magnoliophyta,Angiosperm,Monocot,Magnoliopsida,Asparagales,Agavaceae,Dracaena cinnabari,Mesophanerophyte,Monopodial
+Herbaceous perennial,Dracocephalum austriacum,Andrello et al.,Cons Biol,2012,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Lamiaceae,,,
+Herbaceous perennial,Dracocephalum austriacum 2,Mumzbergova,Fol Geobot,2012,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Lamiaceae,,,
+Herbaceous perennial,Drosera anglicana,"Nordbakken, Rydgren & Okland",J Ecol,2004,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Droseraceae,,Hemicryptophyte,Rosette
+Herbaceous perennial,Drosera rotundifolia,"Nordbakken, Rydgren & Okland",J Ecol,2004,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Droseraceae,Drosera rotundifolia,Hemicryptophyte,Rosette
+Herbaceous perennial,Dryas octopetala,McGraw & Antonovics,J Ecol,1983,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Rosales,Rosaceae,Dryas octopetala,Hemicryptophyte,clonal
+Tree,Duguetia neglecta,Zagt & Boot,Zagt PhD thesis 1997,1997,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Magnoliales,Annonaceae,Duguetia neglecta,Macrophanerophyte,Monopodial
+Succulent,Echeveria longissima,Martorell,Popul Ecol,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Saxifragales,Crassulaceae,,Chamaephyte,Rosette
+Herbaceous perennial,Echinacea angustifolia,"Dalgleish, Koons, & Adler",J Ecol,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Echinacea angustifolia,,
+Herbaceous perennial,Echinacea angustifolia 2,Hurlburt,PhD thesis,1999,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Echinacea angustifolia,Hemicryptophyte,
+Succulent,Echinocactus platyacanthus,"Jimenez-Sierra, Mandujano & Eguiarte",Biol Cons,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Cactaceae,,Nanophanerophyte,barrel cactus
+Succulent,Echinocereus lindsayi,Martorell,Popul Ecol,2012,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Cactaceae,,,
+Herbaceous perennial,Echinospartum algibicum,"Iriondo, Albert, Gimenez, Lozano & Escudero",Book,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,,,
+Herbaceous perennial,Echium vulgare,Klemow & Raynal,J Ecol,1985,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Boraginaceae,Echium vulgare,Hemicryptophyte,"Rosette, facultative biennial"
+Palm,Encephalartos cycadifolius,Raimondo & Donaldson,Biol Cons,2003,Plantae,Cycadophyta,Gymnosperm,.,Cycadophyta,Cycadales,Zamiaceae,Encephalartos cycadifolius,Geophyte,"multiple, usually subterranean stems"
+Palm,Encephalartos villosus,Raimondo & Donaldson,Biol Cons,2003,Plantae,Cycadophyta,Gymnosperm,.,Cycadophyta,Cycadales,Zamiaceae,Encephalartos villosus,Geophyte,one subterranean stem
+Epiphyte,Encyclia tampensis,Larson,Selbyana,1992,Plantae,Magnoliophyta,Angiosperm,Monocot,Magnoliopsida,Asparagales,Orchidaceae,,Epiphyte,
+Tree,Entandrophragma cylindricum,"Picard, Yalibanda, Namkosserena & Baya",Ecol  & Manag,2008,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Sapindales,Meliaceae,,Macrophanerophyte,Monopodial
+Shrub,Epacris barbata,"Keith, Tozer, Regan & Regan",Aust J Bot,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Ericaceae,,,
+Tree,Eperua falcata,"Chagneau, Morrtier & Picard","Journal of the Royal Statistical Society, Series C (Applied Statistics)",2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Caesalpiniaceae,Eperua falcata,Macrophanerophyte,Monopodial
+Herbaceous perennial,Epilobium latifolium,Doak,Ecol,1992,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Myrtales,Onagraceae,Chamerion latifolium,Hemicryptophyte,Clonal forb
+Herbaceous perennial,Epipactis atrorubens,"Jakalaniemi, Crone, Narhi & Tuomi",Rejected from Am Nat,?,Plantae,Magnoliophyta,Angiosperm,Monocot,Magnoliopsida,Asparagales,Orchidaceae,Epipactis atrorubens,Geophyte,
+Shrub,Eremophila forrestii,"Watson, Westoby & Holm",J Ecol,1997,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Myoporaceae,,Nanophanerophyte,"Evergreen, woody shrub, erect often multistemmed. Max height ~3m"
+Shrub,Eremophila maitlandii,"Watson, Westoby & Holm",J Ecol,1997,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Myoporaceae,,Nanophanerophyte,"Evergreen, woody shrub, compact and uprigth multi stemmed. Max height~2m"
+Shrub,Eremosparton songoricum,"Zhang, Wang and Shi",Chin J Plant Ecol,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,,,
+Liana,Eremospatha macrocarpa,"Kouassi, Barot, Gignoux & Bi",J Trop Ecol,2008,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Arecales,Arecaceae,Eremospatha macrocarpa,Nanophanerophyte,Monopodial
+Shrub,Erica ciliaris,"Bullock, White, Prudhomme, Tansey, Perea & Hooftman",J Ecol,2011,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Ericaceae,,,
+Herbaceous perennial,Erigeron acer subspp. decoloratus,"Jakalaniemi, Siikamaki, Kilpia & Tuomi",Oeco,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,,Hemicryptophyte,
+Herbaceous perennial,Erigeron kachinesis,Allphin & Harper,Am Midl Nat,1997,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,,Hemicryptophyte,Rosette
+Herbaceous perennial,Eriogonum longifolium var. gnaphalifolium,McConnell & Menges,Nat Areas J,2002,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Polygonaceae,,Hemicryptophyte,Rosette
+Herbaceous perennial,Eriophorum angustifolium subspp. triste,"Tolvanen, Schroderus & Henry",J Veg Sci,2001,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Cyperaceae,,Geophyte,"Tiller, rhizomatous sedge"
+Herbaceous perennial,Eriophorum vaginatum,Fetcher & Shaver,J Ecol,1983,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Cyperaceae,,,
+Herbaceous perennial,Erodium paularense,"Iriondo, Albert, Gimenez, Lozano & Escudero",Book,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Geraniales,Geraniaceae,,,
+Herbaceous perennial,Eryngium alpinum,,,,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Apiales,Apiaceae,,Hemicryptophyte,
+Herbaceous perennial,Eryngium cuneifolium,Menges & Quintana-Ascencio,adult2,adult3,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Apiales,Apiaceae,Eryngium cuneifolium,Hemicryptophyte,Rosette
+Herbaceous perennial,Eryngium maritimum,"Curle, Stabbetorp & Nordal",110.46,131.714,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Apiales,Apiaceae,Eryngium cuneifolium,,
+Herbaceous perennial,Erysimum capitatum subspp. angustatum,Pavlik & Manning,0,0,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Brassicales,Brassicaceae,,Hemicryptophyte,Rosette
+Herbaceous perennial,Erythronium japonicum,"Schoichi, Takenori, Shuichi & Akira",0,0,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Liliales,Liliaceae,Erythronium japonicum,Geophyte,Corm
+Succulent,Escontria chiotilla,Ortega-Baes,0,0.067,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Cactaceae,,Nanophanerophyte,Columnar
+Succulent,Espeletia spicata,"Silva, Trevisan, Estrada & Monasterio",0.063,0.133,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,,Nanophanerophyte,Rosette
+Succulent,Espeletia timotensis,"Silva, Trevisan, Estrada & Monasterio",0.063,0,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,,Nanophanerophyte,Rosette
+Herbaceous perennial,Eupatorium perfoliatum,Byers & Meagher,Ecol Appl,1997,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Eupatorium perfoliatum,Helophyte,Buds
+Herbaceous perennial,Eupatorium resinosum,Byers & Meagher,Ecol Appl,1997,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Eupatorium resinosum,Helophyte,Buds
+Succulent,Euphorbia clivicola,Pfab & Witkowski,Biol Cons,2000,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malpighiales,Euphorbiaceae,,,
+Succulent,Euphorbia fontqueriana,"Iriondo, Albert, Gimenez, Lozano & Escudero",Book,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malpighiales,Euphorbiaceae,,,
+Palm,Euterpe edulis,"Silva-Matos, Freckleton & Watkinson",Ecol,1999,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Arecales,Arecaceae,Euterpe edulis,Mesophanerophyte,Monopodial
+Palm,Euterpe edulis,Freckleton et al,,2003,,,,,,,,,,
+Palm,Euterpe oleraceae,"Arango, Duque & Munoz",Intl J Trop Biol,2010,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Arecales,Arecaceae,,Mesophanerophyte,
+Palm,Euterpe precatoria,Pena-Claros & Zuidema,Ecol Bolivia,2000,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Arecales,Arecaceae,Euterpe precatoria,Mesophanerophyte,
+Shrub,Fabiana imbricata,Ruete,BSc thesis,2006,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Solanales,Solanaceae,,,
+Tree,Fagus crenata,Nakashizuka,J Veg Sci,1991,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fagales,Fagaceae,Fagus crenata,Macrophanerophyte,
+Tree,Fagus grandifolia,"Batista, Platt & Macchiavelli",Ecol,1998,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fagales,Fagaceae,Fagus grandifolia,Macrophanerophyte,Monopodial
+Tree,Fagus sylvatica,"Lopez, Ortuno, Martin & Fullana",Ann For Sci,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fagales,Fagaceae,Fagus sylvatica,Macrophanerophyte,Monopodial
+Herbaceous perennial,Festuca gracillima,"Oliva, Collantes & Humano",Rang Ecol Manag,2005,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,,Hemicryptophyte,Tillers/Tussock
+Tree,Ficus microcarpa,Zeng,PhD thesis,2001,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Rosales,Moraceae,Ficus thonningii,Mesophanerophyte,
+Tree,Ficus virens,Zeng,PhD thesis,2001,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Rosales,Moraceae,,Mesophanerophyte,
+Herbaceous perennial,Fragaria vesca,Schulze,Popul Ecol,2012,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Rosales,Rosaceae,,,
+Herbaceous perennial,Frasera speciosa,Taylor & Inoye,Ecol,1985,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Gentianales,Gentianaceae,,,
+Herbaceous perennial,Fritillaria camschatcensis,Shimizu,Evol,2000,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Liliales,Liliaceae,,Geophyte,Bulb
+Herbaceous perennial,Fritillaria camschatcensis,Yonezawa et al.,,2000,,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Liliales,Liliaceae,,Geophyte,Bulb
+Herbaceous perennial,Fritillaria meleagris,Zhang & Hytteborn,Hol Ecol,1985,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Liliales,Liliaceae,Fritillaria meleagris,Geophyte,Bulb
+Annual,Froelichia floridana,McCauley & Ungar,Rest Ecol,2002,Plantae,Magnoliophyta,Angiosperm,Eudicot,Liliopsida,Zingiberales,Marantaceae,Froelichia floridana,Therophyte,
+Algae,Fucus distichus,Ang & de Wreede,Mar Ecol Prog Ser,1993,Chromalveolata,Heterokontophyta,.,.,Phaeophyceae,Fucales,Fucaceae,Fucus distichus,,
+Shrub,Fumana procumbens,Bengtsson,J Ecol,1993,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malvales,Cistaceae,,Nanophanerophyte,woody shrub
+Tree,Garcinia lucida,"Guedje, Zuidema, During, Foahom & Lejoly",Forest Ecol & Manag,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malpighiales,Clusiaceae,,Mesophanerophyte,Monopodial
+Shrub,Gardenia actinocarpa,Osunkoya,Biol Cons,2003,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Gentianales,Rubiaceae,Gardenia actinocarpa,Nanophanerophyte,dioecious shrub
+Shrub,Gaultheria procumbens,"Donohue, Foster & Motkin",J Ecol,2000,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Ericaceae,,,
+Herbaceous perennial,Gaura neomexicana subspp. coloradensis,Floyd & Ranker,Int J Plant Sci,1998,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Myrtales,Onagraceae,,Hemicryptophyte,Rosette
+Algae,Gelidium sesquipedale,Santos & Nyman,J Appl Phyco,1998,Chromalveolata,Heterokontophyta,.,.,Florideophyceae,Gelidiales,Gelidiaceae ,Gelidium corneum,,
+Algae,Gelidium sesquipedale 2,Santos & Nyman,Mar Ecol Prog Ser,1994,Chromalveolata,Heterokontophyta,.,.,Florideophyceae,Gelidiales,Gelidiaceae ,Gelidium corneum,,
+Herbaceous perennial,Gentiana pneumonanthe,Oostermeijer,J Ecol,1996,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Gentianales,Gentianaceae,,Hemicryptophyte,Rosette
+Herbaceous perennial,Gentiana pneumonanthe 2,"Chapman, Rose, Clarke",J Appl Ecol,1989,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Gentianales,Gentianaceae,,Hemicryptophyte,Rosette
+Herbaceous perennial,Gentianella amarella,Lennartsson,Plant Syst Evol,1997,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Gentianales,Gentianaceae,,,
+Herbaceous perennial,Gentianella campestris,Lennartsson & Oostermeijer,J Ecol,2001,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Gentianales,Gentianaceae,,Hemicryptophyte,"Rosette, obligate biennial"
+Herbaceous perennial,Gentianella praecox subspp. bohemica,Buchrova & Munzbergova,Biol Cons,2012,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Gentianales,Gentianaceae,,,
+Palm,Geonoma brevispatha,Souza & Martins,Aust Ecol,2006,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Arecales,Arecaceae,,Mesophanerophyte,Monopodial
+Palm,Geonoma deversa,"Zuidema, de Kroon, Werger",Ecol Appl,2007,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Arecales,Arecaceae,Geonoma deversa,Mesophanerophyte,"Cluster, polypodial palm"
+Palm,Geonoma macrostachys,Svenning,Plant Ecol,2002,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Arecales,Arecaceae,Geonoma macrostachys,Mesophanerophyte,Monopodial
+Palm,Geonoma orbignyana,"Rodriguez-Buritica, Orjuela & Galeano",Forest Ecol & Manag,2005,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Arecales,Arecaceae,Geonoma orbignyana,Mesophanerophyte,Monopodial
+Palm,Geonoma schottiana,"Sampaio, Scariot",J Trop Ecol,2010,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Arecales,Arecaceae,Geonoma orbignyana,,
+Herbaceous perennial,Geranium sylvaticum,"Ramula, Toivonen & Mutikainen",Int J Plant Sci,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Geraniales,Geraniaceae,Geranium sylvaticum,Hemicryptophyte,Multiple Flowering Stalks
+Herbaceous perennial,Geum reptans,"Weppler, Stoll & Stocklin",J Ecol,2006,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Rosales,Rosaceae,Geum reptans,Hemicryptophyte,Rosette
+Herbaceous perennial,Geum rivale,Kiviniemi,Plant Ecol,2002,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Rosales,Rosaceae,Geum rivale,Hemicryptophyte,Clonal rhyzome
+Annual,Gilia tenuiflora subspp. arenaria,Fox,Cons Biol,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Polemoniaceae,,Therophyte,
+Annual,Gilia tenuiflora subspp. hoffmannii,"Levine, McEachern & Cowan",J Ecol,2008,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Polemoniaceae,,Therophyte,Forb
+Tree,Gleditsia triacanthos,Marco & Paez,Env Manag,2000,Protista,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,Gleditsia triacanthos,Mesophanerophyte,Monopodial
+Algae,Gracilaria gracilis,"Engel, Aberg, Gaggiotti, Destombe & Valero",J Ecol,2001,Plantae,Rhodophyta,.,.,Florideophyceae ,Gracilariales,Gracilariaceae,Gracilaria gracilis,Hydrophyte,
+Shrub,Grevillea caleyi,"Regan, Auld, Keith & Burgman",Biol Cons,2003,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Proteales,Proteaceae,,,
+Shrub,Grevillea iaspicula,"Hoebee, Thrall & Young",Cons Genet,2008,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Proteales,Proteaceae,,,
+Tree,Grias peruviana,Peters,Book,1991,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Lecythidaceae,Grias peruviana,Mesophanerophyte,Monopodial
+Tree,Guaiacum sanctum ,CITES,Plants Committee,2008,Plantae,Magnoliopsida,Angiosperm,Eudicot,Magnoliopsida,Zygophyllales,Zygophyllaceae,,,
+Epiphyte,Guarianthe aurantiaca,Mondragon,Plant Spp Biol,2009,Plantae,Magnoliophyta,Angiosperm,Monocot,Magnoliopsida,Asparagales,Orchidaceae,Guarianthe aurantiaca,Geophyte,Pseudobulbs
+Tree,Guettarda viburnoides,"Loayza, Knight",Ecol,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Gentianales,Rubiaceae,,Epiphyte,
+Herbaceous perennial,Gymnadenia conopsea,Hutchings,,,Plantae,Magnoliophyta,Angiosperm,Monocot,Magnoliopsida,Asparagales,Orchidaceae,,Hemicryptophyte,
+Herbaceous perennial,Haplopappus radiatus,Kaye & Pyke,Ecol,2003,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Pyrrocoma radiata,Hemicryptophyte,
+Succulent,Harrisia fragrans,Rae & Ebert,Int J Plant Sci,2002,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Cactaceae,Harrisia fragrans,Mesophanerophyte,Columnar
+Herbaceous perennial,Hedyotis nigricans,"Dalgleish, Koons, & Adler",J Ecol,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Gentianales,Rubiaceae,Stenaria nigricans,Hemicryptophyte,Forb
+Shrub,Hedysarum laeve,Li & Zuidema,PhD thesis,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Lamiaceae,Hedysarum fruticosum laeve,Nanophanerophyte,
+Herbaceous perennial,Helenium virginicum,"Adams, Marsh & Knox",Biol Cons,2003,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Helenium virginicum,Hemicryptophyte,Rosette
+Shrub,Helianthemum juliae,"Marrero-Gomez, Oostermeijer, Carque-Alamo & Banares-Baudet",Biol Cons,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malvales,Cistaceae,,Nanophanerophyte,small iteroparous shrub
+Herbaceous perennial,Helianthemum polygonoides,"Iriondo, Albert, Gimenez, Lozano & Escudero",Book,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malvales,Cistaceae,,,
+Herbaceous perennial,Helianthemum teneriffae,"Iriondo, Albert, Gimenez, Lozano & Escudero",Book,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malvales,Cistaceae,,,
+Herbaceous perennial,Helianthus divaricatus,Nantel & Gagnon,Ecol,1999,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Helianthus divaricatus,Geophyte,Clonal rhyzome
+Herbaceous perennial,Helianthus tuberosus,Obergfel,MSc Thesis,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Helianthus tuberosus,Geophyte,
+Herbaceous perennial,Heliconia acuminata,Bruna,Ecol,2003,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Zingiberales,Heliconiaceae,Heliconia acuminata,Geophyte,Rhyzome
+Herbaceous perennial,Heliconia metallica,"Schleuning, Huaman, & Matthies",J Ecol,2008,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Zingiberales,Heliconiaceae,Heliconia metallica,Geophyte,Rhyzome
+Herbaceous perennial,Heracleum mantegazzianum,"Nehrbass, Winkler, Pergl, Perglova & Pysek",Pers Plant Ecol Evol Syst,2006,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Apiales,Apiaceae,Heracleum mantegazzianum,Hemicryptophyte,Rosette
+Herbaceous perennial,Herminium monorchis,"Wells, Rothery, Cox & Bamford",Bot J Lin Soc,1998,Plantae,Magnoliophyta,Angiosperm,Monocot,Magnoliopsida,Asparagales,Orchidaceae,Herminium monorchis,Geophyte,
+Herbaceous perennial,Heteropogon contortus,O'Connor,J Appl Ecol,1993,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,Heteropogon contortus,Hemicryptophyte,Grass
+Epiphyte,Heteropsis flexuosa,"Balcazar, Zuidema",,,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Alismatales,Araceae,Heteropsis flexuosa,Mesophanerophyte,Secondary hemiepiphyte
+Epiphyte,Heteropsis macrophylla,"Balcazar, Zuidema",,,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Alismatales,Araceae,Heteropsis macrophylla,Mesophanerophyte,Secondary hemiepiphyte
+Epiphyte,Heteropsis oblongifolia,"Balcazar, Zuidema",,,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Alismatales,Araceae,Heteropsis oblongifolia,Mesophanerophyte,Secondary hemiepiphyte
+Herbaceous perennial,Hieracium floribundum,Thomas & Dale,Can J Bot,1975,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Hieracium floribundum,Hemicryptophyte,Rosette
+Herbaceous perennial,Hieracium lepidulum,"Wangen, Duncan, Hulme & Diez",Pop Biol conf,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,,,
+Herbaceous perennial,Hilaria mutica,Vega & Montaña,Plant Ecol,2004,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,Pleuraphis mutica,Hemicryptophyte,Tussock
+Herbaceous perennial,Himantoglossum hircinum,"Pfeifer, Wiegand, Heinrich & Jetschke",J Appl Ecol,2006,Plantae,Magnoliophyta,Angiosperm,Monocot,Magnoliopsida,Asparagales,Orchidaceae,Himantoglossum hircinum,Geophyte,Tuber
+Herbaceous perennial,Himantoglossum hircinum 2,"Bullock, White, Prudhomme, Tansey, Perea & Hooftman", J Ecol ,2011,Plantae,Magnoliophyta,Angiosperm,Monocot,Magnoliopsida,Asparagales,Orchidaceae,Himantoglossum hircinum,Geophyte,Tuber
+Annual,Holocarpha macradenia,"Satterthwaite, Holl, Hayes & Barber",Biol Cons,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,,Therophyte,
+Annual,Hordeum murinum,"Tozer, Chapman, Quigley, Dowling, Cousens, Kearney & Sedcole",J Appl Ecol,2008,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,,Therophyte,
+Annual,Hordeum spontaneum,"Volis, Mendlinger & Ward",Bas & Appl Ecol,2003,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,Hordeum spontaneum,Therophyte,
+Herbaceous perennial,Horkelia congesta,"Kayne, Benfield",Ecol Appl,2004,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,,,
+Herbaceous perennial,Hudsonia montana,"Gross, Lockwood, Frots & Morris",Cons Biol,1998,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malvales,Cistaceae,Hudsonia montana,Chamaephyte,
+Shrub,Hydrangea paniculata,"Hara, Kanno, Hirabuki & Takehara",J Veg Sci,2004,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Cornales,Hydrangeaceae,Hydrangea paniculata,Nanophanerophyte,understory shrub
+Herbaceous perennial,Hydrastis canadensis,Christensen & Gorchov,Plant Ecol,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ranunculales,Ranunculaceae,Hydrastis canadensis,Geophyte,Rhizome
+Herbaceous perennial,Hydrastis canadensis 2,Sinclair,PhD thesis,2002,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ranunculales,Ranunculaceae,Hydrastis canadensis,Geophyte,Rhizome
+Bryophyte,Hylocomium splendens,Okland,Oikos,2000,Plantae,Bryophyta,.,.,Bryopsida,Hypnales,Hylocomiaceae,Hylocomium splendens,Epiphyte,moss
+Bryophyte,Hylocomium splendens 2,Okland,J Ecol,1995,Plantae,Bryophyta,.,.,Bryopsida,Hypnales,Hylocomiaceae,Hylocomium splendens,Epiphyte,moss
+Herbaceous perennial,Hymenoxys herbacea,Campbell & Husband,Heredity,2005,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,,Geophyte,Rhizome
+Herbaceous perennial,Hyparrhenia diplandra,Garnier & Dajoz,J Ecol,2001,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,,Hemicryptophyte,Tussock
+Herbaceous perennial,Hypericum cumulicola,"Quintana-Ascencio, Menges & Weekley",Cons Biol,2003,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Theales,Clusiaceae,Hypericum cumulicola,Hemicryptophyte,
+Annual,Hypochaeris glabra,Fone,J Ecol,1989,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Hypochaeris glabra,Therophyte,Rosette
+Herbaceous perennial,Hypochaeris radicata2,Fone,J Ecol,1989,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Hypochaeris radicata,Hemicryptophyte,
+Herbaceous perennial,Hypochaeris radicata,Jongejans & Kroon,J Ecol,2005,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Hypochaeris radicata,Hemicryptophyte,Rosette
+Annual,Impatiens capensis,"Steets, Knight & Ashman",Amer Nat,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Balsaminaceae,Impatiens capensis,Therophyte,Forb
+Herbaceous perennial,Ipomoea leptophylla,Keeler,Amer Mid Nat,1991,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Solanales,Convolvulaceae,Ipomoea leptophylla,Chamaephyte,Bushy
+Herbaceous perennial,Ipomopsis aggregata,"Brody, Price & Waser",Oikos,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Solanales,Polemoniaceae,Ipomopsis aggregata,Hemicryptophyte,Rosette
+Herbaceous perennial,Ipomopsis tenuituba,Campbell & Waser,Am Nat,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Solanales,Polemoniaceae,Ipomopsis tenuituba,Hemicryptophyte,
+Palm,Iriartea deltoidea,Pinard,Biotrop,1993,Protista,Magnoliophyta,Angiosperm,Monocot,Magnoliopsida,Asparagales,Iridaceae,Iriartea deltoidea,Phanaerophyte,Monopodial
+Algae,Iridaea splendens,"Ang, de Wreede, Shaughnessy & Dyck",Hydrobiol,1990,Plantae,Rhodophyta,.,.,Rhodophyceae,Gigartinales,Gigartinaceae,Mazzaella splendens,,
+Herbaceous perennial,Iris germanica,"Burns, Pardini, Schutzenhofer, Chung, Seidler & Knight",Unpublished ms (word),,Plantae,Magnoliophyta,Angiosperm,Monocot,Magnoliopsida,Asparagales,Iridaceae,,Geophyte,
+Herbaceous perennial,Iris hexagona,"Pathikonda, Ackleh, Hasenstein & Mopper",Cons Biol,2009,Plantae,Magnoliophyta,Angiosperm,Monocot,Magnoliopsida,Asparagales,Iridaceae,,,
+Herbaceous perennial,Iris pseudacorus,"Pathikonda, Ackleh, Hasenstein & Mopper",Cons Biol,2009,Plantae,Magnoliophyta,Angiosperm,Monocot,Magnoliopsida,Asparagales,Iridaceae,,,
+Herbaceous perennial,Isatis tinctoria,Farah,Weed Sci,1988,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Brassicales,Brassicaceae,Isatis tinctoria,Hemicryptophyte,Rosette
+Herbaceous perennial,Ischnosiphon polyphyllus,"Nakazono, Bruna, & Mesquita",Forest Ecol & Manag,2004,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Zingiberales,Marantaceae,Ischnosiphon polyphyllus,Helophyte,
+Herbaceous perennial,Jacobaea vulgaris,"Dauer, McEvoy & Sickle",J Appl Ecol,2012,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Jacobaea vulgaris,,
+Tree,Juniperus procera,"Couralet, Sass-Klaassen, Sterck, Bekele & Zuidema",Forest Ecol & Manag,2005,Plantae,Pinophyta,Gymnosperm,.,Pinopsida,Pinales,Cupressaceae,Juniperus procera,Mesophanerophyte,Monopodial
+Herbaceous perennial,Jurinea fontqueri,"Iriondo, Albert, Gimenez, Lozano & Escudero",,,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,,,
+Tree,Khaya senegalensis,Gaoue & Ticktin,Cons Biol,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Sapindales,Meliaceae,Khaya senegalensis,Macrophanerophyte,
+Herbaceous perennial,Koeleria macrantha,Dalgleish,PhD thesis,2000,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,,,
+Tree,Koelreuteria bipinnata,Zeng,PhD thesis,2001,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Sapindales,Sapindaceae,Koelreuteria bipinnata,Mesophanerophyte,
+Herbaceous perennial,Kosteletzkya pentacarpos,"Pino, Pico & Roa",Bot J Lin Soc,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malvales,Malvaceae,,Geophyte,Rhizome
+Herbaceous perennial,Kunkeliella subsucculenta,"Iriondo, Albert, Gimenez, Lozano & Escudero",Book,2006,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Santalales,Santalaceae,,,
+Liana,Laccosperma secundiflorum,"Kouassi, Barot, Gignoux & Bi",J Trop Ecol,2008,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Arecales,Arecaceae,Laccosperma secundiflorum,Mesophanerophyte,Monopodial
+Tree,Lacistema pubescens,"Fortini, Bruna, Zarin, Vasconcelos & Miranda",Oeco,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malpighiales,Lacistemaceae,,Phanaerophyte,Early short-lived pioneer species
+Annual,Lactuca sativa,"Hooftman, Oostermeijer, Jacobs & Nijs",J Appl Ecol,2005,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,,,
+Annual,Lactuca serriola,"Prevey, Germino & Huntly",Ecol Appl,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,,,
+Herbaceous perennial,Lactuca virosa,Boorman & Fuller,New Phyto,1984,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Lactuca virosa,Hemicryptophyte,
+Algae,Laminaria digitata,Chapman,Hydrobiol,1993,Plantae,Magnoliophyta,Angiosperm,Eudicot,Phaeophyceae,Laminariales,Laminariaceae,Laminaria digitata,,
+Shrub,Larrea tridentata,Miller & Huenneke,Southw Nat,1996,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Zygophyllales,Zygophyllaceae,Larrea tridentata,Nanophanerophyte,
+Herbaceous perennial,Laserpitium longiradium,"Iriondo, Albert, Gimenez, Lozano & Escudero",Book,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Apiales,Apiaceae,,,
+Herbaceous perennial,Lathyrus vernus,Ehrlen,Ecol,2000,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,Lathyrus vernus,Geophyte,No clone
+Herbaceous perennial,Lathyrus vernus 2,Ehrlen,Ecol,1995,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,Lathyrus vernus,Geophyte,No clone
+Herbaceous perennial,Lepanthes eltoroensis,Tremblay,Biol J Linn Soc,2001,Plantae,Magnoliophyta,Angiosperm,Monocot,Magnoliopsida,Asparagales,Orchidaceae,Lepanthes eltoroensis,Epiphyte,Epiphyte
+Herbaceous perennial,Lepanthes rubripetala,Tremblay,Biol J Linn Soc,2001,Plantae,Magnoliophyta,Angiosperm,Monocot,Magnoliopsida,Asparagales,Orchidaceae,,Epiphyte,Epiphyte
+Herbaceous perennial,Lepanthes rupestris,Tremblay,Biol J Linn Soc,2001,Plantae,Magnoliophyta,Angiosperm,Monocot,Magnoliopsida,Asparagales,Orchidaceae,,,Lithophyte
+Annual,Lepidium campestre,"Burns, Pardini, Schutzenhofer, Chung, Seidler & Knight",,,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Brassicales,Brassicaceae,,Therophyte,
+Herbaceous perennial,Lepidium davisii,Bernatus,Final Report,1995,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Brassicales,Brassicaceae,,,
+Annual,Lepidium papilliferum,"Meyer, Quinney & Weaver",AJB,2006,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Brassicales,Brassicaceae,,Therophyte,
+Palm,Lepidocaryum tenue,"Navarro, Galeano & Bernal",Trop Cons Sci,2011,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Arecales,Arecaceae,Lepidocaryum tenue,Nanophanerophyte,
+Herbaceous perennial,Leptocoryphium lanatum,"Raventós, Acevedo & Segarra",Ecol Model,2004,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,Leptocoryphium lanatum,Hemicryptophyte,
+Herbaceous perennial,Lespedeza cuneata,Schutzenhofer & Knight,Ecol Appl,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,Lespedeza juncea sericea,Chamaephyte,
+Herbaceous perennial,Lespedeza cuneata 2,"Burns, Pardini, Schutzenhofer, Chung, Seidler & Knight",Unpublished ms (word),,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,,Chamaephyte,
+Herbaceous perennial,Lesquerella ovalifolia,"Dalgleish, Koons, & Adler",J Ecol,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Capparales,Brassicaceae,Lesquerella ovalifolia,Hemicryptophyte,Forb
+Algae,Lessonia nigrescens,"Oppliger, Correa, Engelen, Tellier, Vieira, Faugeron, Valero, Gomez & Destombe",PLoS1,2012,Plantae,Magnoliophyta,Angiosperm,Eudicot,Phaeophyceae,Laminariales,Lessoniaceae,,,
+Herbaceous perennial,Liatris cylindracea,Kelly & Dyer,Popul Ecol,2002,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Liatris cylindracea,Hemicryptophyte,
+Herbaceous perennial,Liatris scariosa,"Bell, Bowles",,,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,,,
+Tree,Licania heteromorpha,Fortini & Zarin,Forest Ecol & Manag,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Brassicales,Chrysobalanaceae,,Mesophanerophyte,
+Tree,Licaria mahuba,Fortini & Zarin,Forest Ecol & Manag,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Laurales,Lauraceae,,Mesophanerophyte,
+Herbaceous perennial,Ligularia sibirica,Heinken-Smidova & Munzbergova,Fol Geobot,2012,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,,,
+Herbaceous perennial,Limonium carolinianum,"Baltzer, Reekie, Hewlin, Taylor & Boates",Can J Bot,2002,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Plumbaginaceae,Limonium carolinianum,Helophyte,Basal Rosette
+Herbaceous perennial,Limonium delicatulum,Hegazy,J Appl Ecol,1992,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Plumbaginaceae,,Chamaephyte,
+Herbaceous perennial,Limonium erectum,"Iriondo, Albert, Gimenez, Lozano & Escudero",Book,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Plumbaginaceae,,,
+Herbaceous perennial,Limonium geronense,"Iriondo, Albert, Gimenez, Lozano & Escudero",Book,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Plumbaginaceae,,,
+Herbaceous perennial,Limonium malacitanum,,,,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Plumbaginaceae,,Chamaephyte,
+Herbaceous perennial,Linaria orbensis,"Iriondo, Albert, Gimenez, Lozano & Escudero",Book,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malpighiales,Scrophulariaceae,,,
+Shrub,Lindera benzoin,"Cipollini, Wallace-Senft & Whigham",J Ecol,1994,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Laurales,Lauraceae,Lindera benzoin,Phanaerophyte,woody shrub; male and female flowers
+Shrub,Lindera benzoin 2,Vejdani ,PhD thesis,2006,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Laurales,Lauraceae,Lindera benzoin,Nanophanerophyte,woody shrub; male and female flowers
+Shrub,Lindera umbellata,"Hara, Kanno, Hirabuki & Takehara",J Veg Sci,2004,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Laurales,Lauraceae,,Nanophanerophyte,understory shrub
+Shrub,Linnaea borealis,Eriksson,J Veg Sci,1992,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Dipsacales,Caprifoliaceae ,,,
+Herbaceous perennial,Linum catharticum,Verkaar & Schenkeveld,New Phyto,1984,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malpighiales,Linaceae,Linum catharticum,Hemicryptophyte,
+Herbaceous perennial,Linum flavum,Mumzbergova,,,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malpighiales,Linaceae,,,
+Herbaceous perennial,Linum tenuifolium,Mumzbergova,,,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malpighiales,Linaceae,,,
+Herbaceous perennial,Lithospermum ruderale,Bricker & Maron,Ecol,2012,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Boraginaceae,Lithospermum ruderale Dougl. ex Lehm,,
+Tree,Lithraea ternifolia,,,,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Sapindales,Anacardiaceae,,Mesophanerophyte,Monopodial
+Herbaceous perennial,Lobelia boykinii,"Lacey, Royo, Bates & Herr",Cast,2001,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Campanulaceae,,,
+Herbaceous perennial,Lobularia maritima,"Pico, Kroon & Retana",Ecol,2002,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Brassicales,Brassicaceae,Lobularia maritima,Hemicryptophyte,Rosette
+Palm,Lodoicea maldivica,"Rist, Kaiser-Bunbury, Fleischer-Dogley, Edwards, Bunbury & Ghazoul",Forest Ecol & Manag,2010,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Arecales,Arecaceae,,,
+Herbaceous perennial,Lomatium bradshawii,Kaye & Pyke,Ecol,2003,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Apiales,Apiaceae,Lomatium bradshawii,Chamaephyte,umbels
+Herbaceous perennial,Lomatium bradshawii 2,"Kaye, Pendergrass, Finley & Kauffman",Ecol Appl,2001,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Apiales,Apiaceae,Lomatium bradshawii,Chamaephyte,umbels
+Herbaceous perennial,Lomatium cookii,Kaye & Pyke,Ecol,2003,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Apiales,Apiaceae,Lomatium cookii,Chamaephyte,umbels
+Shrub,Lonicera maackii,"Burns, Pardini, Schutzenhofer, Chung, Seidler & Knight",,,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Dipsacales,Caprifoliaceae ,,Chamaephyte,
+Herbaceous perennial,Lotus arinagensis,"Iriondo, Albert, Gimenez, Lozano & Escudero",Book,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,,,
+Herbaceous perennial,Lotus corniculatus,"Emery, Beuselinck & English",New Phyto,1999,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,Lotus corniculatus,Hydrophyte,
+Shrub,Lupinus arboreus,Kauffman & Maron,Amer Nat,2006,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,Lupinus arboreus,Nanophanerophyte,Shrub
+Herbaceous perennial,Lupinus lepidus,Bishop,PhD thesis,1996,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,Lupinus lepidus,Chamaephyte,
+Herbaceous perennial,Lupinus tidestromii,Dangremond & Knight,Ecol,2006,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,Lupinus tidestromii,Chamaephyte,
+Herbaceous perennial,Lythrum salicaria,Lacroix,PhD thesis,2004,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Myrtales,Lythraceae,Lythrum salicaria,Helophyte,
+Liana,Machaerium cuspidatum,Nabe-Nielsen,J Trop Ecol,2004,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,Machaerium cuspidatum,Macrophanerophyte,Liana
+Algae,Macrocystis pyrifera,"Nyman, Brown, Neushul & Keogh",J Appl Phyco,1990,Plantae,Magnoliophyta,Angiosperm,Eudicot,Phaeophyceae,Laminariales,Laminariaceae,Macrocystis pyrifera,,
+Tree,Magnolia dealbata,Sanchez-Velasquez & Pineda-Lopez,Popul Ecol,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Magnoliales,Magnoliaceae,Magnolia dealbata,Mesophanerophyte,
+Shrub,Magnolia salicifolia,"Hara, Kanno, Hirabuki & Takehara",J Veg Sci,2004,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Magnoliales,Magnoliaceae,Magnolia salicifolia,Mesophanerophyte,understory shrub
+Annual,Malacothrix indecora,"Levine, McEachern & Cowan",J Ecol,2008,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Polemoniaceae,Malacothrix indecora,Therophyte,Forb
+Succulent,Mammillaria crucigera,Contreras & Valverde,J Arid Env,2002,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Cactaceae,,Chamaephyte,Globular
+Succulent,Mammillaria dixanthocentron,Ureta & Martorell,Biol Cons,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Cactaceae,,Chamaephyte,
+Succulent,Mammillaria gaumeri,"Ferrer, Duran, Mendez, Dorantes & Dzib",Bol Soc Bot Mex,2011,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Cactaceae,,Chamaephyte,
+Succulent,Mammillaria hernandezii,Ureta & Martorell,Biol Cons,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Cactaceae,,Chamaephyte,
+Succulent,Mammillaria huitzilopochtli,"Flores-Martinez, Manzanero-Medina, Golubov, Montana & Mandujano",Plant Ecol,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Cactaceae,,Chamaephyte,
+Succulent,Mammillaria magnimamma,"Valverde, Quijas, Lopez-Villavicencio & Castillo",Plant Ecol,2004,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Cactaceae,,Chamaephyte,Globular
+Succulent,Mammillaria pectinifera,Valverde & Zavala-Hurtado,J Arid Env,2006,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Cactaceae,,Chamaephyte,Solitary globose
+Tree,Manglietia fordiana,"Chien, Zuidema & Nghia",Popul Ecol,2008,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Magnoliales,Magnoliaceae,Magnolia fordiana,Mesophanerophyte,
+Tree,Manilkara zapota,"Cruz-Rodriguez, Lopez-Mata & Valverde",J Trop Ecol,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Sapotaceae,Manilkara zapota,Mesophanerophyte,Monopodial
+Palm,Mauritaria flexuosa,"Holm, Miller & Cropper",Biotrop,2008,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Arecales,Arecaceae,,Macrophanerophyte,Monopodial
+Tree,Melaleuca quinquenervia,"Sevillano (Lucero), Horvitz",PhD defense facebook,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Myrtales,Myrtaceae,,Macrophanerophyte,
+Tree,Melaleuca viridiﬂora,Crowley,Aust Ecol,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Myrtales,Myrtaceae,,Mesophanerophyte,Monopodial
+Annual,Melampyrum pratense,Ramula,Bas & Appl Ecol,2008,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malpighiales,Scrophulariaceae,,Therophyte,Root hemiparasite
+Shrub,Miconia albicans,Hoffmann,Ecol,1999,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Myrtales,Melastomataceae,,Nanophanerophyte,shrub
+Herbaceous perennial,Miconia calvescens,"Hester, Brooks, Cacho & Panetta",Weed Research,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Myrtales,Melastomataceae,,,
+Shrub,Miconia prasina,"Pascarella, Alde & Zimmerman",Biotrop,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Myrtales,Melastomataceae,Miconia prasina,Nanophanerophyte,small tree with hermaphroditic flowers
+Tree,Microberlinia bisulcata,Norghauer & Newbery,Ecol Mong,2011,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,,Mesophanerophyte,tree
+Annual,Microstegium vimineum,"Nord, Mortensen & Rauschert",ESA poster,2009,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,Microstegium vimineum,Therophyte,
+Annual,Microthlaspi perfoliatum,"Burns, Pardini, Schutzenhofer, Chung, Seidler & Knight",Unpublished ms (word),,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Brassicales,Brassicaceae,,Therophyte,
+Herbaceous perennial,Mimulus cardinalis,Angert,Ecol,2006,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Phrymaceae,Mimulus cardinalis,Geophyte,Rhizome
+Herbaceous perennial,Mimulus guttatus,Elderd & Doak,J Ecol,2006,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Phrymaceae,Mimulus guttatus,Hemicryptophyte,Rosette
+Herbaceous perennial,Mimulus lewisii,Angert,Ecol,2006,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Phrymaceae,Mimulus lewisii,Geophyte,Rhizome
+Herbaceous perennial,Minuartia obtusiloba,Forbis & Doak,Amer J Bot,2004,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Caryophyllaceae,Minuartia obtusiloba,Hemicryptophyte,"Rosette, caespitose"
+Herbaceous perennial,Molinia caerulea,"Jacquemyn, Brys & Neubert",Ecol Appl,2005,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,Molinia caerulea,Hemicryptophyte,Tussock
+Tree,Mora paraensis,Fortini & Zarin,Forest Ecol & Manag,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,,Phanaerophyte,
+Shrub,Mulinum spinosum,Cipriotti & Aguiar,Appl Veg Sci,2012,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Apiales,Apiaceae,,Chamaephytes,
+Annual,Murdannia nudiflora,Burns,Ecol Appl,2008,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Commelinales,Commelinaceae,Murdannia nudiflora,Therophyte,
+Herbaceous perennial,Murdannia simplex,Burns,Ecol Appl,2008,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Commelinales,Commelinaceae,Murdannia simplex,Hemicryptophyte,
+Tree,Myoporum platycarpum,"McArthur, Boland & Tiver",Proc Model,2003,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malpighiales,Scrophulariaceae,,Mesophanerophyte,
+Annual,Myosotis ramosissima,Dostal,J Veg Sci,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Boraginaceae,,Therophyte,
+Tree,Myrcia sylvatica,"Fortini, Bruna, Zarin, Vasconcelos & Miranda",Oeco,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Myrtales,Myrtaceae,,Phanaerophyte,Early short-lived pioneer species
+Tree,Myrsine guianensis,Hoffmann,Ecol,1999,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Myrsinaceae,Myrsine floridana,Mesophanerophyte,Tree
+Herbaceous perennial,Narcissus poeticus,"Burns, Pardini, Schutzenhofer, Chung, Seidler & Knight",,,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Liliales,Liliaceae,,,
+Herbaceous perennial,Narcissus pseudonarcissus,Barkham,J Ecol,1980,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Liliales,Liliaceae,Narcissus pseudonarcissus,Geophyte,Bulbous geophyte
+Herbaceous perennial,Nardostachys grandiflora,"Ghimire, Gimenez, Pradel, McKey, Aumeeruddy-Thomas",J Appl Ecol,2008,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Dipsacales,Valerianaceae,,Geophyte,"Rhizome, rosette, caespitose"
+Succulent,Neobuxbaumia macrocephala,"Esparza-Olguin, Valverde & Mandujano",Popul Ecol,2005,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Cactaceae,,Mesophanerophyte,Columnar-branching
+Succulent,Neobuxbaumia macrocephala 2,Esparza-Olguin,Biol Cons,2002,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Cactaceae,,,
+Succulent,Neobuxbaumia macrocephala 3,Godínez-Alvarez,Plant Ecol,2004,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Cactaceae,,,
+Succulent,Neobuxbaumia mezcalaensis,"Esparza-Olguin, Valverde & Mandujano",Popul Ecol,2005,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Cactaceae,,Mesophanerophyte,Columnar-non branching
+Succulent,Neobuxbaumia tetetzo,"Esparza-Olguin, Valverde & Mandujano",Popul Ecol,2005,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Cactaceae,,Mesophanerophyte,Columnar-branching
+Succulent,Neobuxbaumia tetetzo 2,Godínez-Alvarez,Plant Ecol,2004,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Cactaceae,,,
+Palm,Neodypsis decaryi,"Ratsirarson, Silander & Richard",Cons Biol,1996,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Arecales,Arecaceae,Dypsis decaryi,Mesophanerophyte,
+Herbaceous perennial,Neotinea ustulata,Shefferson & Tali,J Ecol,2007,Plantae,Magnoliophyta,Angiosperm,Monocot,Magnoliopsida,Asparagales,Orchidaceae,Neotinea ustulata,Geophyte,tuberous
+Tree,Nothofagus fusca,Enright & Ogden,Aust J Ecol,1979,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fagales,Fagaceae,Nothofagus fusca,Mesophanerophyte,
+Annual,Oenothera arizonica,"Evans, Ferriere, Kane & Venable",Am Nat,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Myrtales,Onagraceae,,Therophyte,
+Herbaceous perennial,Oenothera californica subspp. avita,"Evans, Ferriere, Kane & Venable",Am Nat,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Myrtales,Onagraceae,,,
+Herbaceous perennial,Oenothera deltoides,Thomson,Cons Biol,2005,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Myrtales,Onagraceae,Oenothera deltoides,Hemicryptophyte,Rosette
+Herbaceous perennial,Oenothera glazioviana,Rees & Rose,Proc R Soc Lon,2002,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Myrtales,Onagraceae,Oenothera glazioviana,Hemicryptophyte,
+Tree,Olea europaea subspp. cuspidata,Bekele,PhD thesis,2000,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Oleaceae,,Mesophanerophyte,
+Herbaceous perennial,Onopordum illyricum,Lubben,PhD thesis,2004,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Onopordum illyricum,Hemicryptophyte,
+Herbaceous perennial,Ophrys sphegodes,Wells & Willems,Population Ecology of Terrestrial Orchids,1991,Plantae,Magnoliophyta,Angiosperm,Monocot,Magnoliopsida,Asparagales,Orchidaceae,Ophrys sphegodes,Geophyte,Bulb
+Succulent,Opuntia imbricata,"Miller, Louda, Rose & Eckberg",Ecol Monog,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Cactaceae,,,
+Succulent,Opuntia macrocentra,"Mandujano, Golubov, Huenneke",Popul Ecol,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Cactaceae,Opuntia macrocentra,Nanophanerophyte,short shrub
+Succulent,Opuntia macrorrhiza,"Keeler, Tenhumberg",Southw Nat,,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Cactaceae,Opuntia macrocentra,Nanophanerophyte,
+Succulent,Opuntia rastrera,"Mandujano, Montana, Franco, Golubov & Flores-Martinez",Ecol,2001,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Cactaceae,,Nanophanerophyte,
+Succulent,Opuntia stricta,"Hoffmann, Moran & Zeller",J Appl Ecol,1998,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Cactaceae,,,
+Herbaceous perennial,Orchis purpurea,Jaquemyns,Ecol,2010,Plantae,Magnoliophyta,Angiosperm,Monocot,Magnoliopsida,Asparagales,Orchidaceae,Orchis purpurea,Geophyte,"Tuberous, Rhizome"
+Annual,Oryza sativa,"Mortimer, Pandey & Piggin",Lim Proceed,,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,Oryza sativa,Therophyte,
+Annual,Oryza sativa var. sylvatica,"Vidotto, Ferrero & Ducco",Weed Research,2001,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,Oryza sativa,,
+Herbaceous perennial,Oxalis acetosella,Berg,Ecog,2002,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Oxalidales,Oxalidaceae,Oxalis montana,Geophyte,"Rhizome, rosette"
+Tree,Oxandra asbeckii,"Chagneau, Mortier & Picard","Journal of the Royal Statistical Society, Series C (Applied Statistics)",2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Magnoliales,Annonaceæ,Oxandra asbeckii,Mesophanerophyte,
+Herbaceous perennial,Oxytropis jabalambrensis,"Iriondo, Albert, Gimenez, Lozano & Escudero",Book,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,,,
+Succulent,Pachycereus pecten-aboriginum,"Morales-Romero, Godinez-Alvarez, Campo-Alves, Molina-Freaner",J Arid Env,2012,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Cactaceae,,,
+Herbaceous perennial,Panax quinquefolium,Voort & McGraw,Biol Cons,2006,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Apiales,Araliaceae,,Geophyte,Rhizome
+Herbaceous perennial,Panax quinquefolium 2,Nantel ,J Ecol,1996,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Apiales,Araliaceae,,Geophyte,
+Herbaceous perennial,Panax quinquefolium 3,Shahi,PhD thesis,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Apiales,Araliaceae,,Geophyte,
+Tree,Parashorea chinensis,"Chien, Zuidema & Nghia",Popul Ecol,2008,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Magnoliales,Annonaceae,,Mesophanerophyte,
+Tree,Parkinsonia aculeata,"Raghu, Wilson & Dhileepan",Aust J Entomol,2006,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,Parkinsonia aculeata,Mesophanerophyte,Polypodial
+Herbaceous perennial,Parolinia glabriuscula,"Iriondo, Albert, Gimenez, Lozano & Escudero",Book,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Brassicales,Brassicaceae,,,
+Herbaceous perennial,Paronychia jamesii,"Dalgleish, Koons, & Adler",J Ecol,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Caryophyllaceae,Paronychia jamesii,Hemicryptophyte,Forb
+Herbaceous perennial,Paronychia pulvinata,Forbis & Doak,Amer J Bot,2004,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Caryophyllaceae,Paronychia pulvinata,Hemicryptophyte,"Rosette, caespitose"
+Herbaceous perennial,Pedicularis furbishiae,Menges,Cons Biol,1990,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malpighiales,Scrophulariaceae,Pedicularis furbishiae,Hemicryptophyte,Rosette
+Herbaceous perennial,Pediomelum esculentum,Castle,PhD thesis,XXXX,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,,,
+Herbaceous perennial,Penstemon haydenii,"Kottas, Tenhumberg",PhD Diss,2008,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Plantaginaceae,,,
+Tree,Pentaclethra macroloba,Hartshorn,PhD Diss,1972,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,Pentaclethra macroloba,Macrophanerophyte,
+Herbaceous perennial,Periandra mediterranea,Hoffmann & Solbrig,Forest Ecol & Manag,2003,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,Periandra mediterranea,Hemicryptophyte,
+Herbaceous perennial,Persicaria maculosa,"van den Berg, Gilligan, Gerdessen, Gregoire & van den Bosch",Weed Research,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Polygonaceae,,,
+Herbaceous perennial,Petrocoptis montsicciana,Garcia,Biol Cons,2002,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Caryophyllaceae,,Chamaephyte,Rosette
+Herbaceous perennial,Petrocoptis pseudoviscosa,Garcia,Biol Cons,2002,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Caryophyllaceae,,Chamaephyte,Rosette
+Shrub,Petrophile pulchella,Bradstock & O'Connell,Aust J Bot,1988,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Proteales,Proteaceae,,Nanophanerophyte,perennial woody shrub
+Annual,Phacelia insularis var. insularis,"Levine, McEachern & Cowan",J Ecol,2008,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Polemoniaceae,,Therophyte,Forb
+Annual,Phalaris brachystachys,"Gonzalez-Andujar, Jimenez-Hidalgo, Garcia-Torres, Saavedra",Crop Protection,2005,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,Phalaris brachystachys,Therophyte,
+Herbaceous perennial,Phaseolus lunatus,"Degreef, Baudoin & Rocha",Gen Res Crop Evol,1997,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,Phaseolus lunatus,Chamaephyte,
+Annual,Phlox drummondii,Schmidt & Levin,Evol,1985,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Polemoniaceae,Phlox drummondii,Therophyte,
+Tree,Phyllanthus emblica,Sinha & Brault,Biodiv & Cons,2005,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malpighiales,Euphorbiaceae,Phyllanthus emblica,Mesophanerophyte,Multi-columnar
+Tree,Phyllanthus emblica 2,"Ticktin, Ganesan, Paramesha & Setty",J Appl Ecol,2012,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malpighiales,Euphorbiaceae,Phyllanthus emblica,,
+Tree,Phyllanthus indofischeri,"Ticktin, Ganesan, Paramesha & Setty",J Appl Ecol,2012,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malpighiales,Euphorbiaceae,,,
+Algae,Phyllospadix scouleri,Shelton,Am Nat,2010,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Alismatales,Zosteraceae,,,
+Algae,Phyllospadix serrulatus,Shelton,Am Nat,2010,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Alismatales,Zosteraceae,,,
+Palm,Phytelephas seemannii,Bernal,J Appl Ecol,1998,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Arecales,Arecaceae,Phytelephas seemannii,Nanophanerophyte,Multi-columnar
+Tree,Picea glehnii,Kubota,Eco Research,1997,Plantae,Pinophyta,Gymnosperm,.,Pinopsida,Pinales,Pinaceae,Picea glehnii,Mesophanerophyte,
+Tree,Picea jezoensis,Kubota,Eco Research,1997,Plantae,Pinophyta,Gymnosperm,.,Pinopsida,Pinales,Pinaceae,Picea jezoensis,Macrophanerophyte,
+Herbaceous perennial,Picris hieracioides,Klemow & Raynal,J Ecol,1985,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Picris hieracioides,Hemicryptophyte,"Rosette, facultative biennial"
+Herbaceous perennial,Pimpinella saxifraga,"Auestad, Rydgren, Jongejans, & Kroon",Biol Cons,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Apiales,Apiaceae,Pimpinella saxifraga,Hemicryptophyte,
+Herbaceous perennial,Pinguicula alpina,"Svennson, Carlsson, Karlsson & Nordell",J Ecol,1993,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Lentibulariaceae,,Geophyte,"rosette, geophyte"
+Herbaceous perennial,Pinguicula ionantha,"Kesler, Trusty, Hermann & Guyer",J Ecol,2008,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Lentibulariaceae,Pinguicula ionantha,Geophyte,"rosette, geophyte"
+Herbaceous perennial,Pinguicula villosa,"Svennson, Carlsson, Karlsson & Nordell",J Ecol,1993,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Lentibulariaceae,Pinguicula villosa,Geophyte,"rosette, geophyte"
+Herbaceous perennial,Pinguicula vulgaris,"Svennson, Carlsson, Karlsson & Nordell",J Ecol,1993,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Lentibulariaceae,Pinguicula vulgaris,Hemicryptophyte,geophyte
+Tree,Pinus cembroides,"Suzan-Azpiri, Sanchez-Ramos, Martinez-Avalos, Villa-Melgarejo",Ecol & Manag,2002,Plantae,Pinophyta,Gymnosperm,.,Pinopsida,Pinales,Pinaceae,Pinus cembroides,Mesophanerophyte,
+Tree,Pinus jeffreyi,van Mantgem & Stepheson,Ecol,2005,Plantae,Pinophyta,Gymnosperm,.,Pinopsida,Pinales,Pinaceae,Pinus jeffreyi,Macrophanerophyte,
+Tree,Pinus kwangtungensis,"Chien, Zuidema & Nghia",Popul Ecol,2008,Plantae,Pinophyta,Gymnosperm,.,Pinopsida,Pinales,Pinaceae,Pinus fenzeliana,Mesophanerophyte,
+Tree,Pinus lambertiana,van Mantgem & Stepheson,Ecol,2005,Plantae,Pinophyta,Gymnosperm,.,Pinopsida,Pinales,Pinaceae,Pinus lambertiana,Macrophanerophyte,
+Tree,Pinus lambertiana 2,"Maloney, Vogler, Eckert, Jensen & Neale",Ecol & Manag,2011,Plantae,Pinophyta,Gymnosperm,.,Pinopsida,Pinales,Pinaceae,Pinus lambertiana,Macrophanerophyte,
+Tree,Pinus massoniana,Zeng,PhD thesis,2001,Plantae,Pinophyta,Gymnosperm,.,Pinopsida,Pinales,Pinaceae,Pinus massoniana,Macrophanerophyte,
+Tree,Pinus nelsoni,"Suzan-Azpiri, Sanchez-Ramos, Martinez-Avalos, Villa-Melgarejo",Ecol & Manag,2002,Plantae,Pinophyta,Gymnosperm,.,Pinopsida,Pinales,Pinaceae,,Mesophanerophyte,
+Tree,Pinus nigra,"Buckley, Brockerhoff, Langer, Ledgard, North & Rees",J Appl Ecol,2005,Plantae,Pinophyta,Gymnosperm,.,Pinopsida,Pinales,Pinaceae,Pinus nigra,Mesophanerophyte,Monopodial
+Tree,Pinus palustris,"Platt, Evans & Rathbun",Amer Nat,1988,Plantae,Pinophyta,Gymnosperm,.,Pinopsida,Pinales,Pinaceae,Pinus palustris,Mesophanerophyte,Columnar
+Tree,Pinus pinaster,"Escalante, Pando, Ordonez & Bravo",Ann For Sci,2011,Plantae,Pinophyta,Gymnosperm,.,Pinopsida,Pinales,Pinaceae,,,
+Tree,Pinus ponderosa,van Mantgem & Stepheson,Ecol,2005,Plantae,Pinophyta,Gymnosperm,.,Pinopsida,Pinales,Pinaceae,Pinus ponderosa,Macrophanerophyte,
+Tree,Pinus strobus,Mumzbergova,,,Plantae,Pinophyta,Gymnosperm,.,Pinopsida,Pinales,Pinaceae,,,
+Tree,Pinus sylvestris,Usher,Biom,1966,Plantae,Pinophyta,Gymnosperm,.,Pinopsida,Pinales,Pinaceae,Pinus sylvestris,Mesophanerophyte,
+Herbaceous perennial,Piriqueta caroliana,Feldman & Morris,J Ecol,2011,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malpighiales,Turneraceae,,,
+Herbaceous perennial,Plantago coronopus,Waite,J Ecol,1984,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Plantaginaceae,Plantago coronopus,Hemicryptophyte,"Rosette, sometimes biennial"
+Herbaceous perennial,Plantago lanceolata,"Hamre, Rydgren & Halvorsen",Plant Ecol,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Plantaginaceae,Plantago lanceolata,Hemicryptophyte,Rosette
+Herbaceous perennial,Plantago lanceolata 2,Shefferson & Roach,Ecol,2012,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Plantaginaceae,Plantago major,Hemicryptophyte,
+Herbaceous perennial,Plantago major,,,,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Plantaginaceae,Plantago major,Hemicryptophyte,
+Herbaceous perennial,Plantago maritima,Jerling,Vegetatio,1985,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Plantaginaceae,Plantago maritima,Helophyte,Rosette
+Herbaceous perennial,Plantago media,Eriksson & Eriksson,J Veg Sci,2000,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Plantaginaceae,Plantago media,Hemicryptophyte,Rosette
+Herbaceous perennial,Plantago rugelii,Hawthorn & Cavers,J Ecol,1976,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Plantaginaceae,Plantago rugelii,Hemicryptophyte,Rosette
+Herbaceous perennial,Platanthera hookeri,Reddoch & Reddoch,J Torrey Bot Soc,2007,Plantae,Magnoliophyta,Angiosperm,Monocot,Magnoliopsida,Asparagales,Orchidaceae,Platanthera hookeri,Geophyte,Bulb
+Tree,Platymiscium filipes,Fortini & Zarin,Forest Ecol & Manag,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,,,
+Herbaceous perennial,Poa alpina,"Marcante, Winkler, Erschbamer",Annals Bot,2009,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,Poa alpina,Hemicryptophyte,
+Palm,Podococcus barteri,Bullock,Biotrop,1980,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Arecales,Arecaceae,Podococcus barteri,Mesophanerophyte,
+Herbaceous perennial,Podophyllum peltatum,Sohn & Policansky,Ecol,1977,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ranunculales,Berberidaceae,Podophyllum peltatum,Geophyte,Rhizome
+Herbaceous perennial,Polemonium vanbruntiae,Bermingham,Plant Ecol,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Polemoniaceae,Polemoniaceae,Helophyte,
+Annual,Polygonum perfoliatum,Hyatt & Araki,Biol Inv,2006,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Polygonaceae,Polygonum perfoliatum,Therophyte,Forb
+Annual,Polygonum persicaria,"Mertens, van den Bosch & Heesterbeek",Ecol Appl,2002,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Polygonaceae,Polygonum persicaria,Therophyte,
+Fern,Polystichum aculeatum,de Groot,PhD thesis,2011,Plantae,Pteridophyta,.,.,Pterodopsida,Polypodiales,Dryopteridaceae,,,
+Fern,Polystichum setiferum,de Groot,PhD thesis,2011,Plantae,Pteridophyta,.,.,Pterodopsida,Polypodiales,Dryopteridaceae,,,
+Herbaceous perennial,Potentilla anserina,Eriksson,J Ecol,1988,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Rosales,Rosaceae,Potentilla anserina,Hemicryptophyte,Stoloniferous rosette
+Herbaceous perennial,Potentilla recta,Lesica & Ellis,Inv Plant Sci & Manag,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Rosales,Rosaceae,Potentilla anserina,,
+Tree,Pouteria sagotiana,Fortini & Zarin,Forest Ecol & Manag,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Sapotaceae,,Phanerophytes,
+Herbaceous perennial,Primula elatior,Jacquemyn & Brys,Ecol,2008,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Primulaceae,Primula elatior,Hemicryptophyte,Rosette
+Herbaceous perennial,Primula farinosa,Lindborg & Ehrlen,Cons Biol,2002,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Primulaceae,Primula laurentiana,Hemicryptophyte,Rosette
+Herbaceous perennial,Primula nutans,"Bjornstrom, Hyvarinen, Siikamaki, Strengell, Vare & Tuomi",Ann Bot Fen,2011,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Primulaceae,Primula laurentiana,,
+Herbaceous perennial,Primula veris,"Ehrlen, Syrjanen, Leimu, Garcia & Lehtila",J Appl Ecol,2005,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Primulaceae,Primula veris,Hemicryptophyte,Rosette
+Herbaceous perennial,Primula veris 2,Jacquemyn,Oikos,2011,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Primulaceae,Primula veris,Hemicryptophyte,Rosette
+Herbaceous perennial,Primula veris 3,Ramula,J Appl Ecol,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Primulaceae,Primula veris,Hemicryptophyte,
+Herbaceous perennial,Primula veris 4,Endels,Plant Ecol,2005,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Primulaceae,Primula veris,Hemicryptophyte,
+Herbaceous perennial,Primula vulgaris,Valverde & Silvertown,J Ecol,1998,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Primulaceae,Primula vulgaris,Macrophanerophyte,Rosette
+Herbaceous perennial,Primula vulgaris2,Endels,J Ecol,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Primulaceae,Primula vulgaris,Macrophanerophyte,
+Tree,Prioria copaifera,Condit,Forest Ecol & Manag,1993,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,Prioria copaifera,Mesophanerophyte,
+Tree,Prosopis glandulosa,"Golubov, Mandujano, Franco, Montana, Eguiarte & Lopez-Portillo",J Ecol,1999,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Mimosaceae,Prosopis glandulosa,Mesophanerophyte,
+Tree,Prosopis laevigata,Bernal,PhD thesis,2004,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Mimosaceae,Prosopis laevigata,Mesophanerophyte,
+Shrub,Protea neriifolia,"Higgins, Pickett & Bond",TREE,2000,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Proteales,Proteaceae,,Nanophanerophyte,
+Tree,Prunus africana,Stewart,PhD Diss,2001,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Rosales,Rosaceae,Prunus africana,Mesophanerophyte,
+Tree,Prunus serotina,Decocq,Ecol Model,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Rosales,Rosaceae,Prunus serotina,Hemicryptophyte,Monopodial
+Herbaceous perennial,Pseudomisopates rivas-martinezii,"Iriondo, Albert, Gimenez, Lozano & Escudero",Book,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malpighiales,Scrophulariaceae,,,
+Palm,Pseudophoenix sargentii,"Durán, R.",PhD thesis,1992,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Arecales,Arecaceae,Pseudophoenix sargentii,Mesophanerophyte,
+Palm,Pseudophoenix sargentii 2,Maschinski,Biol Cons,2006,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Arecales,Arecaceae,Pseudophoenix sargentii,Mesophanerophyte,
+Tree,Psidium guajava,Somarriba,Agroforestry Systems,1988,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Myrtales,Myrtaceae,,Mesophanerophyte,Monopodial
+Herbaceous perennial,Psoralea tenuiflora,"Dalgleish, Koons, & Adler",J Ecol,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,Psoralea tenuiflora,Hemicryptophyte,Forb
+Tree,Pterocarpus angolensis,"Desmet, Shackleton & Ronbinson",S African J Bot,1996,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,Pterocarpus angolensis,Mesophanerophyte,
+Tree,Pterocarya rhoifolia,Kaneko & Kawano,J Plant Res,2002,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fagales,Juglandaceae,,Mesophanerophyte,
+Succulent,Pterocereus gaumeri,"Mendez, Duran & Olmsted",Biotrop,2004,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Cactaceae,Cactaceae,Mesophanerophyte,Columnar
+Algae,Pterygophora californica,de Wreede,Phycol,1986,Plantae,Magnoliophyta,Angiosperm,Eudicot,Phaeophyceae,Laminariales,Alariaceae,Pterygophora californica,,
+Shrub,Ptilotus obovatus,"Rosenberg, Boland, Tiver, & Watson",Internet,.,Plantae,Magnoliophyta,Angiosperm,Eudicot,Liliopsida,Zingiberales,Marantaceae,,Nanophanerophyte,Shrub
+Palm,Ptychosperma macarthurii,"Liddle, Brook, Matthews, Taylor & Caley",Biol Cons,2006,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Arecales,Arecaceae,Ptychosperma macarthurii,Mesophanerophyte,Multi-columnar
+Shrub,Purshia subintegra,"Maschinski, Baggs, Quintana-Ascencio & Menges",Cons Biol,2006,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Rosales,Rosaceae,,Nanophanerophyte,
+Herbaceous perennial,Pyxidanthera brevifolia,Wall,Plant Ecol,2012,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Diapensiaceae,,,
+Tree,Quercus buckleyi,Russell,PhD thesis,1999,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fagales,Fagaceae,Quercus buckleyi,Macrophanerophyte,
+Tree,Quercus crispula,"Tsutom, Koichiro",J Veg Sci,1999,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fagales,Fagaceae,Quercus mongolica crispula,Macrophanerophyte,
+Tree,Quercus eduardii,"Alfonso-Corrado, Clark-Tapia, Mendoza",Forest Ecol & Manag,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fagales,Fagaceae,Quercus eduardii,Mesophanerophyte,
+Tree,Quercus potosina,"Alfonso-Corrado, Clark-Tapia, Mendoza",Forest Ecol & Manag,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fagales,Fagaceae,Quercus potosina,Mesophanerophyte,
+Tree,Quercus rugosa,Bonfil,In prep.,,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fagales,Fagaceae,Quercus rugosa,Mesophanerophyte,
+Herbaceous perennial,Ramonda myconi,Pico & Riba,Plant Ecol,2002,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Gesneriaceae,,Hemicryptophyte,Rosette
+Herbaceous perennial,Ranunculus acris,Sarukhan & Gadgil,J Ecol,1974,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ranunculales,Ranunculaceae,Ranunculus acris,Hydrophyte,Rhizome
+Herbaceous perennial,Ranunculus acris subspp. acris,Lamoureaux & Bourdot,Weed Research,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ranunculales,Ranunculaceae,Ranunculus bulbosus,Hydrophyte,
+Herbaceous perennial,Ranunculus bulbosus,Sarukhan & Gadgil,J Ecol,1974,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ranunculales,Ranunculaceae,Ranunculus bulbosus,Hydrophyte,Corm
+Herbaceous perennial,Ranunculus peltatus,Idestam-Almquist,PhD thesis,1998,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ranunculales,Ranunculaceae,,Hydrophyte,
+Herbaceous perennial,Ranunculus repens,Sarukhan & Gadgil,J Ecol,1974,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ranunculales,Ranunculaceae,Ranunculus repens,Geophyte,Rhizome
+Herbaceous perennial,Ratibida columnifera,"Dalgleish, Koons, & Adler",J Ecol,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Ratibida columnifera,Hemicryptophyte,Forb
+Palm,Reinhardtia gracilis,"Mendoza, A.",PhD thesis,1993,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Arecales,Arecaceae,Reinhardtia gracilis,Mesophanerophyte,
+Herbaceous perennial,Rheum acuminatum,Muenzbergova,,,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Polygonaceae,,,
+Herbaceous perennial,Rheum australe,Muenzbergova,,,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Polygonaceae,,,
+Annual,Rhinanthus minor,"Bullock, Pywell, Coulson-Phillips",Ecol Appl,2008,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Orobanchaceae,,,
+Tree,Rhizophora mangle,"Lopez-Hoffman, Ackerly, Anten, Denoyer &Ramos",J Ecol,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malpighiales,Rhizophoraceae,Rhizophora mangle,Mesophanerophyte,
+Shrub,Rhododendron maximum,McGraw,Am J Bot,1999,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Ericaceae,,Nanophanerophyte,
+Shrub,Rhododendron maximum 2,McGraw,Am J Bot,1999,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Ericaceae,,Nanophanerophyte,
+Tree,Rhododendron ponticum,Salguero-Gomez,MSc thesis,2004,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Ericaceae,,Nanophanerophyte,
+Tree,Rhododendron ponticum 2,"Travis, Harris, Park & Bullock",MEE,2011,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Ericaceae,,Nanophanerophyte,Multi-stem
+Palm,Rhopalostylis sapida,Enright & Watson,New Zealand J Bot,1992,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Arecales,Arecaceae,Rhopalostylis sapida,Mesophanerophyte,
+Palm,Rhopalostylis sapida 2,Enright & Watson,New Zealand J Bot,1992,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Arecales,Arecaceae,Rhopalostylis sapida,Mesophanerophyte,
+Shrub,Rhus aromatica,Nantel & Gagnon,J Ecol,1999,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Sapindales,Anacardiaceae,Rhus aromatica,Nanophanerophyte,low shrub; forms dense thickets
+Shrub,Rhus copallinum,Thaxton,PhD thesis,2003,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Sapindales,Anacardiaceae,Rhus aromatica,Nanophanerophyte,
+Shrub,Rosa canina,"Burns, Pardini, Schutzenhofer, Chung, Seidler & Knight",Unpublished ms (word),,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Rosales,Rosaceae,,Chamaephyte,
+Shrub,Rosa multiflora,"Burns, Pardini, Schutzenhofer, Chung, Seidler & Knight",,,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Rosales,Rosaceae,,Geophyte,
+Shrub,Rosmarinus tomentosus,"Iriondo, Albert, Gimenez, Lozano & Escudero",Book,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Lamiaceae,,Chamaephyte,
+Tree,Roupala montana,Hoffmann,Ecol,1999,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Proteales,Proteaceae,,Mesophanerophyte,Tree
+Shrub,Rourea induta,Hoffmann,Ecol,1999,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Oxalidales,Connaraceae,,Nanophanerophyte,shrub
+Herbaceous perennial,Rubus discolor,Lambrecht-McDowell & Radosevich,Biol Inv,2005,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Rosales,Rosaceae,Rubus discolor,Geophyte,Rhizome
+Herbaceous perennial,Rubus saxatilis,Eriksson,Ecol Res,1994,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Rosales,Rosaceae,Rubus,Geophyte,
+Herbaceous perennial,Rubus ursinus,Lambrecht-McDowell & Radosevich,Biol Inv,2005,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Rosales,Rosaceae,Rubus ursinus,Geophyte,Rhizome
+Herbaceous perennial,Rumex obtusifolius,"Pino, Sans & Masalles",Weed Research,1998,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Polygonaceae,Rumex obtusifolius,Geophyte,Rhizome
+Herbaceous perennial,Rumex rupestris,"Iriondo, Albert, Gimenez, Lozano & Escudero",Book,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Polygonaceae,,Geophyte,
+Palm,Sabal minor,Ramp,PhD thesis,1989,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Arecales,Arecaceae,Sabal uresana,Mesophanerophyte,
+Palm,Sabal palmetto,McPherson & Williams,AJB,1996,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Arecales,Arecaceae,Sabal uresana,,
+Palm,Sabal uresana,Joyal,Econ Bot,1996,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Arecales,Arecaceae,Sabal uresana,Mesophanerophyte,
+Palm,Sabal yapa,Pulido,J Trop Ecol,2007,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Arecales,Arecaceae,Sabal yapa,Macrophanerophyte,Mono columnar
+Shrub,Sabina vulgaris,Zuidema & Li,,,Plantae,Pinophyta,Gymnosperm,.,Pinopsida,Pinales,Cupressaceae,Juniperus sabina sabina,Nanophanerophyte,
+Shrub,Salix arctica,"Tolvanen, Schroderus & Henry",Evol Ecol,2002,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malpighiales,Salicaceae,Salix arctica,Mesophanerophyte,
+Shrub,Salix arctica 2,"Tolvanen, Schroderus & Henry",Evol Ecol,2002,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malpighiales,Salicaceae,Salix arctica,Mesophanerophyte,
+Annual,Salsola australis,"Borger, Scott, Renton, Walsh & Powles",Weed Research,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Chenopodiaceae,Salsola tragus,Therophyte,
+Herbaceous perennial,Salvia pratensis,"Hegland, Leeuwen & Oostermeijer",J Appl Ecol,2001,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Lamiaceae,Salvia pratensis,Hemicryptophyte,Rosette
+Shrub,Sambucus racemosa subspp. sieboldiana,Abe,Ecol,2008,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Dipsacales,Caprifoliaceae ,,Nanophanerophyte,deciduous shrub
+Herbaceous perennial,Sanicula europaea,Gustafsson & Ehrlen,Oikos,2003,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Apiales,Apiaceae,,Chamaephyte,Rhizome
+Herbaceous perennial,Santolina melidensis,"Iriondo, Albert, Gimenez, Lozano & Escudero",Book,2009,Chromalveolata,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,,Geophyte,
+Tree,Sapium sebiferum,Renne,PhD thesis,2001,Chromalveolata,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malpighiales,Euphorbiaceae,Triadica sebifera,Mesophanerophyte,
+Herbaceous perennial,Saponaria bellidifolia,Csergo,Popul Ecol,2011,Chromalveolata,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Caryophyllaceae,,Chamaephyte,
+Herbaceous perennial,Sarcocapnos baetica,"Salinas, Suarez & Blanca",Can J Bot,2002,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ranunculales,Fumariaceae,,Hemicryptophyte,Semi-succulent
+Herbaceous perennial,Sarcocapnos enneaphylla,"Salinas, Suarez & Blanca",Can J Bot,2002,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ranunculales,Fumariaceae,,Hemicryptophyte,Semi-succulent
+Herbaceous perennial,Sarcocapnos pulcherrima,"Salinas, Suarez & Blanca",Can J Bot,2002,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ranunculales,Fumariaceae,,Hemicryptophyte,"Semi-succulent, woody"
+Algae,Sargassum muticum,Engelen & Santos,J Ecol,2009,Plantae,Heterokontophyta,.,.,Phaeophyceae,Fucales,Sargassaceae,Sargassum muticum,,
+Algae,Sargassum paniculatum,Ang,Hydrobiol,1987,Plantae,Heterokontophyta,.,.,Phaeophyceae,Fucales,Sargassaceae,Sargassum paniculatum,,
+Algae,Sargassum siliquosum,Ang,Hydrobiol,1987,Plantae,Heterokontophyta,.,.,Phaeophyceae,Fucales,Sargassaceae,Sargassum siliquosum,,
+Herbaceous perennial,Sarracenia alata,Brewer,Amer J Bot,2001,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Sarraceniaceae,Sarracenia alata,Hemicryptophyte,Rhizome/pitchers
+Herbaceous perennial,Sarracenia purpurea,Gotelli & Ellison,Ecol Appl,2006,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Sarraceniaceae,Sarracenia purpurea,Helophyte,Rosette
+Herbaceous perennial,Saussurea laniceps,"Law, Salick & Knight",Plant Ecol,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Chamaephyte,,
+Herbaceous perennial,Saussurea medusa,"Law, Salick & Knight",Plant Ecol,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Chamaephyte,,
+Herbaceous perennial,Saxifraga aizoides,"Marcante, Winkler, Erschbamer",Annals Bot,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Saxifragales,Saxifragaceae,Saxifraga aizoides,Hemicryptophyte,
+Herbaceous perennial,Saxifraga cotyledon,Dinnetz & Nilsson,Plant Ecol,2002,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Saxifragales,Saxifragaceae,,Hemicryptophyte,Rosette
+Herbaceous perennial,Saxifraga tridactylites,Dostal,J Veg Sci,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Saxifragales,Saxifragaceae,Saxifraga tridactylites,Hemicryptophyte,Forb
+Herbaceous perennial,Scabiosa columbaria,Verkaar & Schenkeveld,New Phyto,1984,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Dipsacales,Dipsacaceae,Scabiosa columbaria,Hemicryptophyte,Rosette
+Tree,Scaphium borneense,"Yamada, Zuidema, Itoh, et al.",J Ecol,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malvales,Sterculiaceae,,Mesophanerophyte,
+Tree,Sclerocarya birrea,"Emanuel, Shackleton & Baxter","Forest Ecol & Manag, Exeter",2005,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Sapindales,Anacardiaceae,,Mesophanerophyte,Multi-columnar
+Herbaceous perennial,Scorzonera hispanica,Munzbergova,Folia Geobot Phytotax,2006,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Scorzonera hispanica,Hemicryptophyte,Rosette
+Herbaceous perennial,Scorzonera humilis,Colling & Matthies,J Ecol,2006,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,,Hemicryptophyte,Rosette
+Herbaceous perennial,Scrophularia valdesii,"Iriondo, Albert, Gimenez, Lozano & Escudero",Book,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malpighiales,Scrophulariaceae,,,
+Succulent,Sedum laxum,Shahani,PhD thesis,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Saxifragales,Crassulaceae,,,
+Shrub,Senecio filaginoides,Cipriotti & Aguiar,Appl Veg Sci,2012,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,,Chamaephytes,
+Herbaceous perennial,Senecio integrifolius,Widen,Nord J Bot,1987,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,,Hemicryptophyte,Rosette
+Herbaceous perennial,Senecio jacobaea,Forbes,Weed Research,1977,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Senecio jacobaea,Hemicryptophyte,Rosette
+Herbaceous perennial,Senecio jacobaea2,Crider,PhD thesis,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Senecio jacobaea,Hemicryptophyte,
+Tree,Sequoia sempervirens,Namkoong & Roberds,Amer Nat,1974,Plantae,Pinophyta,Gymnosperm,.,Pinopsida,Pinales,Cupressaceae,Sequoia sempervirens,Macrophanerophyte,
+Tree,Sequoia sempervirens 2,Bosch,Science,1971,Plantae,Pinophyta,Gymnosperm,.,Pinopsida,Pinales,Cupressaceae,Sequoia sempervirens,Macrophanerophyte,
+Annual,Sesbania vesicaria,"Jarry, khaladi, Hossaert-McKey, McKey",Acta Biotheo,1995,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,Glottidium vesicarium,Therophyte,
+Annual,Setaria faberi,"Davis, Dixon & Liebman",Ecol Appl,2004,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,,Therophyte,
+Annual,Setaria faberi 2,Davis,Weed Sci,2006,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,,Therophyte,
+Herbaceous perennial,Setaria incrassata,O'Connor,J Appl Ecol,1993,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,,Geophyte,Rhizome
+Herbaceous perennial,Setaria incrassata2,O'Connor,J Appl Ecol,1993,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,,Geophyte,Rhizome
+Tree,Shorea leprosula,"Visser, Jongejans, van Breugel, Zuidema, Chen, Kassim & de Kroon",J Ecol,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Dipsacales,Dipsacaceae,,,
+Tree,Shorea quadrinervis,Blundell & Peart,Ecol,2004,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Dipsacales,Dipsacaceae,,,
+Herbaceous perennial,Silene acaulis,Morris & Doak,Amer J Bot,1998,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Caryophyllaceae,Silene acaulis,Chamaephyte,Rosette
+Herbaceous perennial,Silene acaulis 2,Gross et al.,Amer J Bot,2006,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Caryophyllaceae,Silene acaulis,Chamaephyte,Rosette
+Herbaceous perennial,Silene ciliata,"Gimenez-Benavides, Albert, Iriondo & Escudero",Ecog,2011,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Caryophyllaceae,,Chamaephyte,
+Herbaceous perennial,Silene douglasii var.oraria,Kephart & Paladino,Amer J Bot,1997,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Caryophyllaceae,,Hemicryptophyte,"Rosette, forb"
+Herbaceous perennial,Silene regia,Menges & Dolan,J Ecol,1998,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Caryophyllaceae,Silene regia,Hemicryptophyte,Forb
+Herbaceous perennial,Silene spaldingii,Lesica & Crone,J Ecol,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Caryophyllaceae,Silene spaldingii,Hemicryptophyte,Rosette
+Herbaceous perennial,Silene tatarica,"Jakalaniemi, Tuomi, Siikamaki",Cons Biol,2006,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Caryophyllaceae,,Hemicryptophyte,
+Herbaceous perennial,Solidago mollis,"Dalgleish, Koons, & Adler",J Ecol,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Solidago mollis,Hemicryptophyte,Forb
+Annual,Sorghum brachypodum,"Lonsdale, Braithwaite, Lane & Farmer",Aust J Ecol,1998,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,,Therophyte,
+Herbaceous perennial,Spartina alterniflora,Hastings,Theor Popul Biol,2006,Plantae,Magnoliophyta,Angiosperm,Monocot,Monocot,Poales,Poaceae,,,
+Shrub,Spartocytisus supranubius,"Kyncl, Suda, Wild, Wildova & Herben",Ecol,2006,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,Cytisus supranubius,Nanophanerophyte,
+Herbaceous perennial,Sphaeralcea coccinea,"Dalgleish, Koons, & Adler",J Ecol,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malvales,Malvaceae,Sphaeralcea coccinea,Hemicryptophyte,Forb
+Herbaceous perennial,Spiranthes spiralis,"Jacquemyn, Brys, Hermy & Willems",Biol Cons,2007,Plantae,Magnoliophyta,Angiosperm,Monocot,Magnoliopsida,Asparagales,Orchidaceae,,,
+Herbaceous perennial,Sporobolus heterolepis,Dalgleish,PhD thesis,2000,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,,,
+Shrub,Stachyurus macrocarpus,"Abe, Wada & Nakagoshi",Plant Ecol,2008,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Crossosomatales,Stachyuraceae,,,
+Succulent,Stenocereus eruca,"Clark-Tapia, Mandujano, Valverde, Mendoza, & Molina-Freaner",Biol Cons,2005,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Caryophyllales,Cactaceae,,Nanophanerophyte,Columnar
+Annual,Striga hermonthica,"Mourik, Bianchi, van der Werf & Stomph",Weed Research,2008,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Orobanchaceae,,,
+Tree,Stryphnodendron excelsum,Hartshorn,PhD Diss,1972,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,Stryphnodendron microstachyum,Mesophanerophyte,
+Tree,Styrax obassia,"Abe, Nakashizuka & Tanaka",J Veg Sci,1998,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Styracaceae,,Mesophanerophyte,Columnar
+Herbaceous perennial,Succisa pratensis,Jongejans & Kroon,J Ecol,2005,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Dipsacales,Dipsacaceae,Succisa pratensis,Hemicryptophyte,Rosette
+Herbaceous perennial,Succisa pratensis 2,"Wallin, Svensson",Fol Geobot,2012,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Dipsacales,Dipsacaceae,Succisa pratensis,Hemicryptophyte,
+Herbaceous perennial,Succisa pratensis 3,Milden,Phd thesis,2005,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Dipsacales,Dipsacaceae,Succisa pratensis,Hemicryptophyte,
+Herbaceous perennial,Swallenia alexandrae,Pavlik & Manning,Biol Cons,1988,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,Swallenia alexandrae,Hemicryptophyte,Hummock-forming
+Tree,Swietenia macrophylla,"Verwer, Pena-Claros, van der Staak, Ohlson-Kiehn & Sterck",J Appl Ecol,2008,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Sapindales,Meliaceae,,Mesophanerophyte,
+Tree,Syzygium jambos,"Brown, Spector & Wu",J Appl Ecol,2008,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Myrtales,Myrtaceae,,Mesophanerophyte,Multi-columnar
+Tree,Tachigali vasquezii,"Poorter, Zuidema, Pena-Claros & Boot",J Ecol,2005,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Caesalpiniaceae,,Mesophanerophyte,Columnar
+Herbaceous perennial,Taraxacum erythrospermum,"Burns, Pardini, Schutzenhofer, Chung, Seidler & Knight",Unpublished ms (word),,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,,,
+Herbaceous perennial,Taraxacum officinale,"Vavrek, McGraw & Yang",J Ecol,1997,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Taraxacum officinale,Hemicryptophyte,Rosette
+Herbaceous perennial,Taraxacum officinale 2,"Burns, Pardini, Schutzenhofer, Chung, Seidler & Knight",Unpublished ms (word),,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Taraxacum officinale,Hemicryptophyte,Rosette
+Herbaceous perennial,Taraxacum serotinum,Molnar & Bokros,Folia Geobot Phytotax,1996,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,,Hemicryptophyte,Rosette
+Tree,Taxodium mucronatum,"Suzan-Azpiri, Enriquez-Pena & Malda-Barrera",Forest Ecol & Manag,2007,Plantae,Pinophyta,Gymnosperm,.,Pinopsida,Pinales,Taxodiaceae,Taxodium mucronatum,Macrophanerophyte,
+Tree,Taxus brevifolia,Busing,USDAResearchNote,1995,Plantae,Pinophyta,Gymnosperm,.,Pinopsida,Pinales,Taxaceae,Taxus brevifolia,Macrophanerophyte,
+Tree,Taxus floridana,"Kwit, Horvitz & Platt",Cons Biol,2004,Plantae,Pinophyta,Gymnosperm,.,Pinopsida,Pinales,Taxaceae,Taxus floridana,Mesophanerophyte,
+Tree,Tetraberlinia bifoliolata,Norghauer & Newbery,Ecol Mong,2011,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,,Mesophanerophyte,Tree
+Shrub,Tetramolopium arenarium,"Aplet, Laven & Shaw",Nat Areas J,1994,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,,,
+Herbaceous perennial,Thelesperma megapotamicum,"Dalgleish, Koons, & Adler",J Ecol,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Thelesperma megapotamicum,Hemicryptophyte,Forb
+Herbaceous perennial,Themeda triandra,O'Connor,J Appl Ecol,1993,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,Themeda triandra,Hemicryptophyte,Tufted herb (tussock-forming)
+Herbaceous perennial,Themeda triandra2,O'Connor,J Appl Ecol,1993,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,Themeda triandra,Hemicryptophyte,Tufted herb (tussock-forming)
+Annual,Thlaspi perfoliatum,"Pagel, Fritzsch, Biedermann & Schroder",Ecol Appl,2008,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Brassicales,Brassicaceae,Microthlaspi perfoliatum,Therophyte,
+Palm,Thrinax radiata,Olmsted & Alvarez-Buylla,Ecol Appl,1995,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Arecales,Arecaceae,Thrinax radiata,Mesophanerophyte,Columnar
+Herbaceous perennial,Thymus loscosii,Garcia,AEET,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Lamiaceae,,Geophyte,
+Herbaceous perennial,Thymus webbianus,"Iriondo, Albert, Gimenez, Lozano & Escudero",Book,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Lamiaceae,,Geophyte,
+Epiphyte,Tillandsia brachycaulos,"Mondragon, Duran, Ramierz & Valverde",J Trop Ecol,2004,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Bromeliaceae,Tillandsia brachycaulos,Epiphyte,Rosette
+Epiphyte,Tillandsia deppeana,"Winkler, Hulber & Hietz",Bas & Appl Ecol,2007,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Bromeliaceae,Tillandsia deppeana,Epiphyte,Rosette
+Epiphyte,Tillandsia juncea,"Winkler, Hulber & Hietz",Bas & Appl Ecol,2007,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Bromeliaceae,Tillandsia juncea,Epiphyte,Forb
+Epiphyte,Tillandsia macdougallii,Mondragon & Ticktin,Cons Biol,2011,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Bromeliaceae,Tillandsia juncea,Epiphyte,
+Epiphyte,Tillandsia multicaulis,"Winkler, Hulber & Hietz",Bas & Appl Ecol,2007,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Bromeliaceae,Tillandsia multicaulis,Epiphyte,
+Epiphyte,Tillandsia punctulata,"Winkler, Hulber & Hietz",Bas & Appl Ecol,2007,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Bromeliaceae,Tillandsia punctulata,Epiphyte,
+Epiphyte,Tillandsia recurvata,Valverde & Bernal,Bot Soc Bot Mex,2010,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Bromeliaceae,Tillandsia recurvata,Epiphyte,
+Epiphyte,Tillandsia violacea,Mondragon & Ticktin,Cons Biol,2011,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Bromeliaceae,,,
+Epiphyte,Tolumnia variegata,Calvo,Ecol,1993,Plantae,Magnoliophyta,Angiosperm,Monocot,Magnoliopsida,Asparagales,Orchidaceae,Tolumnia variegata,Epiphyte,"Small twig epiphyte, rhizome"
+Tree,Torreya taxifolia,"Schwartz, Hermann & Mantgem",Cons Biol,2000,Plantae,Pinophyta,Gymnosperm,.,Pinopsida,Pinales,Taxaceae,Torreya taxifolia,Mesophanerophyte,Multi-columnar
+Herbaceous perennial,Tradescantia blossfeldiana,Burns,Ecol Appl,2008,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Commelinales,Commelinaceae,Tradescantia cerinthoides,Geophyte,Rhizome
+Herbaceous perennial,Tradescantia brevifolia,Burns,Ecol Appl,2008,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Commelinales,Commelinaceae,Tradescantia brevifolia,Geophyte,Rhizome
+Herbaceous perennial,Tradescantia fluminensis,Burns,Ecol Appl,2008,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Commelinales,Commelinaceae,Tradescantia fluminensis,Geophyte,Rhizome
+Herbaceous perennial,Tradescantia zebrina,Burns,Ecol Appl,2008,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Commelinales,Commelinaceae,Tradescantia zebrina,Geophyte,Rhizome
+Herbaceous perennial,Tragopogon dubius,"Prevey, Germino & Huntly",Ecol Appl,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Tragopogon dubius,Hemicryptophyte,Basal rosette
+Herbaceous perennial,Tragopogon pratensis,Milden,Ann Bot Fenn,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asterales,Asteraceae,Tragopogon pratensis,Hemicryptophyte,
+Herbaceous perennial,Trifolium dasyphyllum,Geib & Galen,Ecol,2012,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,,,
+Herbaceous perennial,Trifolium montanum,Schleuning & Matthies,Cons Biol,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,Trifolium montanum,Hemicryptophyte,Basal shoots
+Herbaceous perennial,Trifolium nanum,Forbis,PhD thesis,2002,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,Trifolium nanum,Chamaephyte,
+Herbaceous perennial,Trifolium parryi,Geib & Galen,Ecol,2012,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,,,
+Herbaceous perennial,Trifolium pratense,Freville & Silvertown,Plant Ecol,2005,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,Trifolium pratense,Chamaephyte,Rosette
+Herbaceous perennial,Trillium apetalon,"Ohara, Takada & Kawano",Plant Spp Biol,2001,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Liliales,Liliaceae,,,
+Herbaceous perennial,Trillium camschatcense,"Ohara, Tomimatsu, Takada & Kawano",Plant Spp Biol,2006,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Liliales,Liliaceae,Trillium camschatcense,Geophyte,Rhizome
+Herbaceous perennial,Trillium grandiflorum,Knight,Ecol Appl,2004,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Liliales,Liliaceae,Trillium grandiflorum,Geophyte,Non-clonal
+Herbaceous perennial,Trillium grandiflorum 2,Rooney,Plant Ecol,2003,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Liliales,Liliaceae,Trillium grandiflorum,Geophyte,Non-clonal
+Herbaceous perennial,Trollius laxus,Scanga & Leopold,Biol Cons,2012,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ranunculales,Ranunculaceae,,,
+Tree,Tsuga canadensis,Lamar & McGraw,Forest Ecol & Manag,2005,Plantae,Pinophyta,Gymnosperm,.,Pinopsida,Pinales,Pinaceae,Tsuga canadensis,Macrophanerophyte,Columnar
+Shrub,Ulex gallii,"Stokes, Bullok &Watkinson",J Ecol,2004,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,Ulex gallii,Nanophanerophyte,Perenial dawarf shrubs
+Shrub,Ulex minor,"Stokes, Bullok &Watkinson",J Ecol,2004,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Fabaceae,Ulex minor,Nanophanerophyte,Perenial dawarf shrubs
+Shrub,Vaccinium myrtillus,"Hegland, Jongejans & Rydgren",Oeco,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Ericales,Ericaceae,Vaccinium myrtillus,Nanophanerophyte,
+Tree,Vatica hainanesis ,Hu & Wang,Acta Ecol Sinica,1988,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Lamiales,Dipterocarpaceae,,Macrophanerophyte,
+Shrub,Vella pseudocytisus subspp. paui,"Dominguez Lozano, Moreno Saiz & Schwartz",J Nat Cons,2011,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Brassicales,Brassicaceae,,,
+Shrub,Vella pseudocytisus subspp. pseudocytisus,"Iriondo, Albert, Gimenez, Lozano & Escudero",Book,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Brassicales,Brassicaceae,,,
+Herbaceous perennial,Verbascum fontqueri,"Iriondo, Albert, Gimenez, Lozano & Escudero",Book,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Brassicales,Brassicaceae,,,
+Annual,Veronica arvensis,Dostal,J Veg Sci,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malpighiales,Scrophulariaceae,Veronica arvensis,Therophyte,Forb
+Shrub,Verticosa staminosa subspp. staminosa,"Yates, Ladd, Coates, McArthur",Aust J Bot,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Myrtales,Myrtaceae,,Nanophanerophyte,
+Shrub,Viburnum furcatum,"Hara, Kanno, Hirabuki & Takehara",J Veg Sci,2004,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Dipsacales,Adoxaceae,,Nanophanerophyte,understory shrub
+Herbaceous perennial,Viola biflora,"Evju, Halvorsen, Rydgren, Austrheim, Mysterud",Oeco,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malpighiales,Violaceae,,,
+Herbaceous perennial,Viola elatior,"Eckstein, Danihelka, Otte",Flora,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malpighiales,Violaceae,,Hemicryptophyte,hemicryptophytes
+Herbaceous perennial,Viola fimbriatula,"Solbrig, Sarandon & Bossert",Amer Nat,1988,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malpighiales,Violeaceae,Viola sagittata ovata,Geophyte,"Rhizome, forb"
+Herbaceous perennial,Viola pumila,"Eckstein, Danihelka, Otte",Biol,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malpighiales,Violaceae,,Hemicryptophyte,hemicryptophytes
+Herbaceous perennial,Viola stagnina,"Eckstein, Danihelka, Otte",Biol,2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Malpighiales,Violaceae,,Helophyte,hemicryptophytes
+Tree,Virola surinamensis,Fortini & Zarin,Forest Ecol & Manag,2010,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Magnoliales,Myristicaceae,,,
+Tree,Vochysia ferruginea,Boucher & Mallona,Forest Ecol & Manag,1997,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Myrtales,Vochysiaceae,,Macrophanerophyte,Columnar
+Tree,Vouacapoua americana,"Chagneau, Morrtier & Picard","Journal of the Royal Statistical Society, Series C (Applied Statistics)",2009,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Fabales,Caesalpiniaceae,Vouacapoua americana,Macrophanerophyte,Monopodial
+Annual,Vulpia bromoides,"Tozer, Chapman, Quigley, Dowling, Cousens, Kearney & Sedcole",J Appl Ecol,2008,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,,Therophyte,
+Annual,Vulpia fasciculata,"Norton, Firbank, Scott & Watkinson",Oeco,2005,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,,Therophyte,
+Annual,Vulpia myuros,"Tozer, Chapman, Quigley, Dowling, Cousens, Kearney & Sedcole",J Appl Ecol,2008,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,,Therophyte,
+Epiphyte,Vulpicida pinastri,Shriver,Oeco,2012,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,,,
+Annual,Warea carteri,"Quitana-Ascencio, Menges, Weekley, Kelrick & Pace-Aldana",Popul Ecol,2011,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Brassicales,Brassicaceae,,Therophyte,
+Epiphyte,Werauhia sanguinolenta,"Zotz, Laube & Schmidt",Ecog,2005,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Bromeliaceae,Werauhia sanguinolenta,Epiphyte,Rosette
+Shrub,Xanthorrhoea resinifera,"Keith, Tozer, Regan & Regan",Aust J Bot,2007,Plantae,Magnoliophyta,Angiosperm,Eudicot,Magnoliopsida,Asparagales,Xanthorrhoeaceae,,,
+Palm,Zamia amblyphyllidia,"Negron-Ortiz, Gorchov & Breckon",Int J plant Sci,1996,Plantae,Cycadophyta,Gymnosperm,.,Cycadophyta,Cycadales,Zamiaceae,Zamia amblyphyllidia,Nanophanerophyte,diodecious shrub. pinnately compund leaves and a fleshy underground stem.
+Palm,Zamia loddigesii,Gonzalez-Astorga,,,Plantae,Cycadophyta,Gymnosperm,.,Cycadophyta,Cycadales,Zamiaceae,Zamia loddigesii,Nanophanerophyte,
+Herbaceous perennial,Zea diploperennis,"Sanchez-Velazquez, Ezcurra, Martinez-Ramos, Alvarez-Buylla & Lorente",J Ecol,2002,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,Zea diploperennis,Geophyte,Rhyzome
+Annual,Zea mays subspp. parviglumis,Parker,PhD thesis,1998,Plantae,Magnoliophyta,Angiosperm,Monocot,Liliopsida,Poales,Poaceae,Zea diploperennis,Therophyte,
