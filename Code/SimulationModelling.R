@@ -47,35 +47,31 @@ warmup = 0.1 * iter
 priors <- c(prior(normal(0, 10), class = Intercept),
             prior(normal(0, 1), class = b))
 
+# Random with progression, stasis and shrinkage
 
-# Life history model ###########################################################
+random_m <- random_m %>% drop_na(GenT, Fec, rlwr, rupr, xt)
 
-# Leslie matrices
-
-leslie_matrices <- leslie_matrices %>% drop_na(GenT, Fec, rlwr, rupr, xt)
-
-model_leslie <- brm(mvbind(scale(xt), scale(rupr), scale(rlwr)) ~ scale(GenT) + scale(Fec) + scale(GenT):scale(Fec)+ scale(Dimension),
-              iter = iter, thin = thin, warmup = warmup,
-              prior= priors, 
-              control = list(adapt_delta = .975, max_treedepth = 20),
-              data = leslie_matrices,
-              family = gaussian(), 
-              cores = 18)
-
-# Lefkovitch matrices 
-
-lefkovitch_matrices <- lefkovitch_matrices %>% drop_na(GenT, Fec, rlwr, rupr, xt)
-
-model_lefkovitch <- brm(mvbind(scale(xt), scale(rupr), scale(rlwr)) ~ scale(GenT) + scale(Fec) + scale(GenT):scale(Fec)+ scale(Dimension),
+model_random <- brm(mvbind(scale(xt), scale(rupr), scale(rlwr)) ~ scale(GenT) + scale(Fec) + scale(GenT):scale(Fec)+ scale(Dimension),
                     iter = iter, thin = thin, warmup = warmup,
                     prior= priors, 
                     control = list(adapt_delta = .975, max_treedepth = 20),
-                    data = lefkovitch_matrices,
+                    data = random_m,
                     family = gaussian(), 
                     cores = 18)
+# Random with progression
+
+random_mp <- random_mp %>% drop_na(GenT, Fec, rlwr, rupr, xt)
+
+model_random_p <- brm(mvbind(scale(xt), scale(rupr), scale(rlwr)) ~ scale(GenT) + scale(Fec) + scale(GenT):scale(Fec)+ scale(Dimension),
+                      iter = iter, thin = thin, warmup = warmup,
+                      prior= priors, 
+                      control = list(adapt_delta = .975, max_treedepth = 20),
+                      data = random_m,
+                      family = gaussian(), 
+                      cores = 18)
 
 # Save the models
 
 setwd(ResultPath)
-save(model_leslie, model_lefkovitch,
+save(model_random_p,model_random,
      file = "SimulationModels.RData")
