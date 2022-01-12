@@ -1,6 +1,6 @@
 # Life history mediates the trade-offs among different components of demographic resilience
 
-Pol Capdevila<sup>1,2</sup>*, Iain Stott<sup>3</sup>, James Cant<sup>4</sup>, Maria Beger<sup>4,5</sup>, Gwilym Rowlands<sup>1<sup>, Molly Grace<sup>1</sup>, Roberto Salguero-Gómez<sup>1,5,6</sup>
+Pol Capdevila<sup>1,2</sup>*, Iain Stott<sup>3</sup>, James Cant<sup>4</sup>, Maria Beger<sup>4,5</sup>, Gwilym Rowlands<sup>1</sup>, Molly Grace<sup>1</sup>, Roberto Salguero-Gómez<sup>1,5,6</sup>
  
 <sup>1</sup>Zoology Department, Oxford University, Zoology Research and Administration Building, 11a Mansfield Rd, Oxford OX1 3SZ, UK
 
