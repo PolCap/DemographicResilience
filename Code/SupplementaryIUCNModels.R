@@ -1,5 +1,5 @@
 # --------------------------------------------------------------------------------------- #
-# - FILE NAME:   7.IUCNModels.R         
+# - FILE NAME:  SupplementaryIUCNModels.R         
 # - DATE:        21/05/2020
 # - DESCRIPTION: Code to descrive the resilience patterns between species and groups of
 #                organisms. 
