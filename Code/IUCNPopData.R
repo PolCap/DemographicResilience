@@ -58,9 +58,7 @@ plandata <- cdb_flatten(compadreUse)
 
 #Match the IUCN criteria ------------------------------------------------------
 
-IUCN_REDLIST_KEY = "8d9c556bb4aa2efeacdc49775c0d0514b42139c96d5ed0f6b9ca5a495ffa49a4"
-
-
+IUCN_REDLIST_KEY #Provide your own key"
 #get Red List version
 rl_version(key=IUCN_REDLIST_KEY)
 #February, 2020
@@ -85,18 +83,6 @@ for(i in 1:length(plan$species)){
                           parse = T),
                 error=function(e) NULL)
   tryCatch(plan$IUCN[i] <- x$result$category,
-           error=function(e) NULL)
-  tryCatch(plan$trend[i] <- x$result$population_trend,
-           error=function(e) NULL)
-  tryCatch(plan$criteria[i] <- x$result$criteria,
-           error=function(e) NULL)
-  tryCatch(x2 <- rl_threats(plan$species[i],
-                                     key=IUCN_REDLIST_KEY,
-                                     parse = T),
-           error=function(e) NULL)
-  tryCatch(plan$threat[i] <- list(x2$result$code),
-           error=function(e) NULL)
-  tryCatch(plan$threats[i] <- length(list(x2$result$title)[[1]]),
            error=function(e) NULL)
   print(plan$species[i])
 }
@@ -127,18 +113,6 @@ for(i in 1:length(an$species)){
                           parse = T),
                 error=function(e) NULL)
   tryCatch(an$IUCN[i] <- x$result$category,
-           error=function(e) NULL)
-  tryCatch(an$trend[i] <- x$result$population_trend,
-           error=function(e) NULL)
-  tryCatch(an$criteria[i] <- x$result$criteria,
-           error=function(e) NULL)
-  tryCatch(x2 <- rl_threats(an$species[i],
-                            key=IUCN_REDLIST_KEY,
-                            parse = T),
-           error=function(e) NULL)
-  tryCatch(an$threat[i] <- list(x2$result$code),
-           error=function(e) NULL)
-  tryCatch(an$threats[i] <- length(list(x2$result$title)[[1]]),
            error=function(e) NULL)
   print(an$species[i])
 }
