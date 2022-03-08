@@ -67,4 +67,6 @@ _R version 4.0.2 or greater_
 
 To download `R`, go to https://www.r-project.org and for `RStudio`, go to https://www.rstudio.com/products/rstudio/download/ .
 
+Cite the code: [![DOI](https://zenodo.org/badge/436702812.svg)](https://zenodo.org/badge/latestdoi/436702812)
+
 
