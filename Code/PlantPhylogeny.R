@@ -7,11 +7,8 @@
 
 rm(list=ls(all=TRUE)) #remove everything
 
-
 #Libraries
 
-
-#Libraries
 library(V.PhyloMaker)
 library(ape)
 library(caper)
@@ -117,42 +114,11 @@ compadreUse$species <- sub("^(\\S*\\s+\\S+).*", "\\1", compadreUse$species)
 
 compadreUse <- cdb_flatten(compadreUse)
 
-# Remove duplicates
-
-# compadreUse <- compadreUse %>% 
-#   distinct(species, .keep_all = TRUE)
-# 
-# # Change rownames
-# 
-# rownames(compadreUse) <- unique(compadreUse$species)
-
-# # check the names
-# 
-# (chk<- name.check(tree, compadreUse))
-# 
-# #Drop tips of the tree
-# 
-# plantree<-drop.tip(tree, chk$tree_not_data)
-# plantree <- compute.brlen(plantree)
-
-# #Drop species not shared with the tree
-# 
-# plandata <- compadreUse %>%
-#   filter(species%in%setdiff(species, chk$data_not_tree))
-# 
-# row.names(plandata) <- plandata$species
-
-# #Sort animals data in the same order as tip labels in the phylogeny
-# plandata <- plandata[match(tree$tip.label, plandata$species),]
-
-#Visualize the tree
+# Visualize the tree
 
 ggtree(tree, layout = "fan")
 
 # save the traits and the tree
 
 setwd(DataPath)
-plantree <- tree
-plandata <- compadreUse
-save(plandata, plantree, file="PlantsTraitData2.RData")
 write.tree(plantree,"plantree.tre")
