@@ -110,7 +110,7 @@ mraunkier <- brm(mvbind(scale(xt), scale(rupr), scale(rlwr)) ~ Growth.form.Raunk
 
 plants <- smallplandata %>% 
   filter(!is.na(max_height))
-  #filter_at(vars(GenT,Fec, max_height), all_vars(!is.na(.))) 
+
 # Match the tree
 
 sp <- unique(plants$species)
