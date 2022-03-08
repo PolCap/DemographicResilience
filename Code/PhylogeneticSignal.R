@@ -10,27 +10,11 @@ options(mc.cores = parallel::detectCores())
 
 library(plyr)
 library(tidyr)
-library(ggplot2)
-library(cowplot)
 library(ape)
 library(caper)
 library(geiger)
 library(phytools)
-library(reshape)
 library(brms)
-library(bayestestR)
-library(tidybayes)
-library(ggtree)
-library(ggtreeExtra)
-library(treeio)
-library(tidytree)
-library(ggnewscale)
-library(ggpmisc)
-library(ggplot2)
-library(ggimage)
-library(patchwork)
-library(tidyverse)
-library(viridis)
 
 #Working directories
 
@@ -46,7 +30,6 @@ setwd(DataPath)
 # Load animals and plants
 
 load("ResData.RData")
-#load("Explore.RData")
 
 # Phylogenetic signal ##########################################################
 # Set modelling parameters
@@ -58,7 +41,6 @@ warmup <- 0.1 * iter
 # Set priors
 
 priors <- c(prior(normal(0, 10), class = Intercept),
-            #prior(normal(0, 1), class = b),
             prior(exponential(1), class = sd))
 
 # Animals ----------------------------------------------------------------------
