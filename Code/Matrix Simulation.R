@@ -158,12 +158,6 @@ random_mp <- foreach(i = c(1:length(random)),
 stopCluster(clus)
 
 # Data cleaning and preparation ################################################
-# First, we constrain the matrices to certain lambda values
-
-leslie_matrices <- leslie_matrices %>% filter(lam>-1.5&lam<1.5)
-lefkovitch_matrices <- lefkovitch_matrices %>% filter(lam>-1.5&lam<1.5)
-
-
 # We now clean the data as we did in the original analyses 
 
 random_m <- random_m %>% 
