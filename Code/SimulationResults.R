@@ -62,44 +62,11 @@ setwd(ResultPath)
 
 load("SimulationModels.RData")
 
-# Figur SX: Life histories and demographic resilience ########################## 
+# Figur S1: Life histories and demographic resilience ########################## 
 
-# Simulated data ---------------------------------------------------------------
+# Random matrices --------------------------------------------------------------
 
-data_leslie <- model_leslie %>%  
-    gather_draws(`b_.*`, regex = TRUE) %>% 
-    median_qi(.width = c(.95, .9, .8)) %>%
-    mutate(.variable=gsub("b_", "", .variable),
-           .variable=gsub("scale", "", .variable),
-           .variable=gsub("_", "", .variable),
-           resil=gsub("xt", "Recovery time", .variable),
-           resil=gsub("rlwr", "Resistance", resil),
-           resil=gsub("rupr", "Compensation", resil),
-           resil = gsub("(Recovery time).*", "\\1", resil),
-           resil = gsub("(Compensation).*", "\\1", resil),
-           resil = gsub("(Resistance).*", "\\1", resil),
-           resil = gsub("Intercept", "", resil),
-           resil = gsub("GenT", "", resil),
-           resil = gsub("Fec", "", resil),
-           resil = gsub("Dimension", "", resil),
-           resil = gsub(":", "", resil),
-           resil = gsub("GenT:Fec", "", resil),
-           .variable=gsub("xt", "", .variable),
-           .variable=gsub("rlwr", "", .variable),
-           .variable=gsub("rupr", "", .variable),
-           .variable=gsub("Fec", "Mean reproductive output", .variable),
-           .variable=gsub("GenT", "Generation time", .variable),
-           .variable=gsub("Generation time:Mean reproductive output", 
-                          "Interaction", .variable),
-           .variable=factor(.variable,levels = c("Interaction",
-                                                 "Generation time", 
-                                                 "Mean reproductive output")), 
-           dataset = "Leslie Simulations")%>% 
-    filter(.variable!="Dimension", .variable!="Intercept")
-
-# Simulated data ---------------------------------------------------------------
-
-data_lefkovitch <- model_lefkovitch %>%  
+data_random <- model_random %>%  
   gather_draws(`b_.*`, regex = TRUE) %>% 
   median_qi(.width = c(.95, .9, .8)) %>%
   mutate(.variable=gsub("b_", "", .variable),
@@ -127,104 +94,139 @@ data_lefkovitch <- model_lefkovitch %>%
          .variable=factor(.variable,levels = c("Interaction",
                                                "Generation time", 
                                                "Mean reproductive output")), 
-         dataset = "Lefkovitch Simulations")%>% 
+         dataset = "Random")%>% 
   filter(.variable!="Dimension", .variable!="Intercept")
 
-# Real data 
+# Random matrices without shrinkage --------------------------------------------
+
+data_randomp <- model_random_p %>%  
+  gather_draws(`b_.*`, regex = TRUE) %>% 
+  median_qi(.width = c(.95, .9, .8)) %>%
+  mutate(.variable=gsub("b_", "", .variable),
+         .variable=gsub("scale", "", .variable),
+         .variable=gsub("_", "", .variable),
+         resil=gsub("xt", "Recovery time", .variable),
+         resil=gsub("rlwr", "Resistance", resil),
+         resil=gsub("rupr", "Compensation", resil),
+         resil = gsub("(Recovery time).*", "\\1", resil),
+         resil = gsub("(Compensation).*", "\\1", resil),
+         resil = gsub("(Resistance).*", "\\1", resil),
+         resil = gsub("Intercept", "", resil),
+         resil = gsub("GenT", "", resil),
+         resil = gsub("Fec", "", resil),
+         resil = gsub("Dimension", "", resil),
+         resil = gsub(":", "", resil),
+         resil = gsub("GenT:Fec", "", resil),
+         .variable=gsub("xt", "", .variable),
+         .variable=gsub("rlwr", "", .variable),
+         .variable=gsub("rupr", "", .variable),
+         .variable=gsub("Fec", "Mean reproductive output", .variable),
+         .variable=gsub("GenT", "Generation time", .variable),
+         .variable=gsub("Generation time:Mean reproductive output", 
+                        "Interaction", .variable),
+         .variable=factor(.variable,levels = c("Interaction",
+                                               "Generation time", 
+                                               "Mean reproductive output")), 
+         dataset = "Random without retrogression")%>% 
+  filter(.variable!="Dimension", .variable!="Intercept")
+
+# Empirical data ############################################################### 
 
 load(paste0(ResultPath, "/ModelsGenTime2.RData"))
 
-# Animals
+# Animals ----------------------------------------------------------------------
 
 data_an <- mGenTa %>%  
-    gather_draws(`b_.*`, regex = TRUE) %>% 
-    median_qi(.width = c(.95, .9, .8)) %>%
-    mutate(.variable=gsub("b_", "", .variable),
-           .variable=gsub("scale", "", .variable),
-           .variable=gsub("_", "", .variable),
-           resil=gsub("xt", "Recovery time", .variable),
-           resil=gsub("rlwr", "Resistance", resil),
-           resil=gsub("rupr", "Compensation", resil),
-           resil = gsub("(Recovery time).*", "\\1", resil),
-           resil = gsub("(Compensation).*", "\\1", resil),
-           resil = gsub("(Resistance).*", "\\1", resil),
-           resil = gsub("Intercept", "", resil),
-           resil = gsub("GenT", "", resil),
-           resil = gsub("Fec", "", resil),
-           resil = gsub("Dimension", "", resil),
-           resil = gsub(":", "", resil),
-           resil = gsub("GenT:Fec", "", resil),
-           .variable=gsub("xt", "", .variable),
-           .variable=gsub("rlwr", "", .variable),
-           .variable=gsub("rupr", "", .variable),
-           .variable=gsub("Fec", "Mean reproductive output", .variable),
-           .variable=gsub("GenT", "Generation time", .variable),
-           .variable=gsub("Generation time:Mean reproductive output", 
-                          "Interaction", .variable),
-           .variable=factor(.variable,levels = c("Interaction",
-                                                 "Generation time", 
-                                                 "Mean reproductive output")),
-           dataset="Animals")%>% 
-    filter(.variable!="Dimension", .variable!="Intercept") 
+  gather_draws(`b_.*`, regex = TRUE) %>% 
+  median_qi(.width = c(.95, .9, .8)) %>%
+  mutate(.variable=gsub("b_", "", .variable),
+         .variable=gsub("scale", "", .variable),
+         .variable=gsub("_", "", .variable),
+         resil=gsub("xt", "Recovery time", .variable),
+         resil=gsub("rlwr", "Resistance", resil),
+         resil=gsub("rupr", "Compensation", resil),
+         resil = gsub("(Recovery time).*", "\\1", resil),
+         resil = gsub("(Compensation).*", "\\1", resil),
+         resil = gsub("(Resistance).*", "\\1", resil),
+         resil = gsub("Intercept", "", resil),
+         resil = gsub("GenT", "", resil),
+         resil = gsub("Fec", "", resil),
+         resil = gsub("Dimension", "", resil),
+         resil = gsub(":", "", resil),
+         resil = gsub("GenT:Fec", "", resil),
+         .variable=gsub("xt", "", .variable),
+         .variable=gsub("rlwr", "", .variable),
+         .variable=gsub("rupr", "", .variable),
+         .variable=gsub("Fec", "Mean reproductive output", .variable),
+         .variable=gsub("GenT", "Generation time", .variable),
+         .variable=gsub("Generation time:Mean reproductive output", 
+                        "Interaction", .variable),
+         .variable=factor(.variable,levels = c("Interaction",
+                                               "Generation time", 
+                                               "Mean reproductive output")),
+         dataset="Animals")%>% 
+  filter(.variable!="Dimension", .variable!="Intercept") 
 
-# Plants 
+# Plants -----------------------------------------------------------------------
 
 data_pl <- mGenTp %>%  
-    gather_draws(`b_.*`, regex = TRUE) %>% 
-    median_qi(.width = c(.95, .9, .8)) %>%
-    mutate(.variable=gsub("b_", "", .variable),
-           .variable=gsub("scale", "", .variable),
-           .variable=gsub("_", "", .variable),
-           resil=gsub("xt", "Recovery time", .variable),
-           resil=gsub("rlwr", "Resistance", resil),
-           resil=gsub("rupr", "Compensation", resil),
-           resil = gsub("(Recovery time).*", "\\1", resil),
-           resil = gsub("(Compensation).*", "\\1", resil),
-           resil = gsub("(Resistance).*", "\\1", resil),
-           resil = gsub("Intercept", "", resil),
-           resil = gsub("GenT", "", resil),
-           resil = gsub("Fec", "", resil),
-           resil = gsub("Dimension", "", resil),
-           resil = gsub(":", "", resil),
-           resil = gsub("GenT:Fec", "", resil),
-           .variable=gsub("xt", "", .variable),
-           .variable=gsub("rlwr", "", .variable),
-           .variable=gsub("rupr", "", .variable),
-           .variable=gsub("Fec", "Mean reproductive output", .variable),
-           .variable=gsub("GenT", "Generation time", .variable),
-           .variable=gsub("Generation time:Mean reproductive output", 
-                          "Interaction", .variable),
-           .variable=factor(.variable,levels = c("Interaction",
-                                                 "Generation time", 
-                                                 "Mean reproductive output")),
-           dataset="Plants")%>% 
-    filter(.variable!="Dimension", 
-           .variable!="Intercept") 
- 
+  gather_draws(`b_.*`, regex = TRUE) %>% 
+  median_qi(.width = c(.95, .9, .8)) %>%
+  mutate(.variable=gsub("b_", "", .variable),
+         .variable=gsub("scale", "", .variable),
+         .variable=gsub("_", "", .variable),
+         resil=gsub("xt", "Recovery time", .variable),
+         resil=gsub("rlwr", "Resistance", resil),
+         resil=gsub("rupr", "Compensation", resil),
+         resil = gsub("(Recovery time).*", "\\1", resil),
+         resil = gsub("(Compensation).*", "\\1", resil),
+         resil = gsub("(Resistance).*", "\\1", resil),
+         resil = gsub("Intercept", "", resil),
+         resil = gsub("GenT", "", resil),
+         resil = gsub("Fec", "", resil),
+         resil = gsub("Dimension", "", resil),
+         resil = gsub(":", "", resil),
+         resil = gsub("GenT:Fec", "", resil),
+         .variable=gsub("xt", "", .variable),
+         .variable=gsub("rlwr", "", .variable),
+         .variable=gsub("rupr", "", .variable),
+         .variable=gsub("Fec", "Mean reproductive output", .variable),
+         .variable=gsub("GenT", "Generation time", .variable),
+         .variable=gsub("Generation time:Mean reproductive output", 
+                        "Interaction", .variable),
+         .variable=factor(.variable,levels = c("Interaction",
+                                               "Generation time", 
+                                               "Mean reproductive output")),
+         dataset="Plants")%>% 
+  filter(.variable!="Dimension", 
+         .variable!="Intercept") 
+
 # Combine the datasets 
 
-data_total <- rbind(data_leslie, data_lefkovitch, data_an, data_pl)
+data_total <- rbind(data_random, data_randomp,
+                    data_an, data_pl)
 
 # Change the order 
 
 data_total <- data_total %>% 
   mutate(dataset=ordered(dataset, levels=c("Animals", 
                                            "Plants", 
-                                           "Lefkovitch Simulations",
-                                           "Leslie Simulations")))
+                                           "Random",
+                                           "Random without retrogression")))
 
 # Define colours 
 
-colors <- c("#187F99", "#E58E3C", "grey45", "grey25")
- 
+colors <- c("#187F99", "#E58E3C",   
+            "grey45", "grey25")
+
 # Now we plot them 
- 
+
 (figureS1 <- data_total %>% 
     mutate(resil=factor(resil, levels=c("Compensation", 
                                         "Resistance", 
                                         "Recovery time"))) %>% 
     ggplot(aes(y = .variable, x = .value, 
-           group=dataset, colour=dataset)) +
+               group=dataset, colour=dataset)) +
     facet_grid(~resil)+
     geom_vline(xintercept = 0, 
                linetype = "dashed", 
@@ -232,10 +234,11 @@ colors <- c("#187F99", "#E58E3C", "grey45", "grey25")
     geom_pointinterval(aes(xmin = .lower, xmax = .upper),
                        interval_size_range = c(0.5, 2),
                        position =  position_dodge(0.5)) +
-  scale_color_manual("", values = colors) +
-  labs(x="Effect sizes", 
-       y = "") +
-  theme(legend.position = "bottom"))
+    scale_color_manual("", values = colors) +
+    labs(x="Effect sizes", 
+         y = "") +
+    theme(legend.position = "bottom", 
+          strip.text = element_text(size=18)))
 
 # Save 
 
@@ -243,5 +246,3 @@ ggsave(figureS1,
        filename = "Figure S1.pdf",
        width = 11, height = 6,
        path = ResultPath)
-
-
