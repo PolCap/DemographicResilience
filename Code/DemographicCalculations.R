@@ -185,21 +185,6 @@ for(i in 1:length(compadreUse$MatrixID)){
   print(i)
 }
 
-# Now we will estimate the life history traits and resilience components
-
-# compadreUse <- compadreUse %>% 
-#   mutate(GenT=  tryCatch(unlist(lapply(A, generation.time)), 
-#                          error=function(e) NA),
-#          rupr = tryCatch(mapply(FUN = reac,
-#                 A = A,
-#                 bound="upper"),error=function(e) NA),
-#          rlwr = tryCatch(mapply(FUN = reac,
-#                        A = A,
-#                        bound="lower"),error=function(e) NA),
-#          dr = tryCatch(unlist(lapply(A, dr)),error=function(e) NA),
-#          xt = tryCatch(unlist(lapply(A, return.time)), error=function(e) NA),
-#          Dimension=dim(A)[1])
-
 ### COMADRE ####################################################################
 
 # Load database
@@ -467,4 +452,4 @@ comadreUse <- left_join(comadreUse, bm)
 #Save both data
 
 setwd(DataPath)
-save(comadreUse, compadreUse, file="transDataPost.RData") #transData2 
+save(comadreUse, compadreUse, file="transDataPost.RData") 
