@@ -63,131 +63,6 @@ path <-  gsub("/Code", "", dirname(rstudioapi::getActiveDocumentContext()$path))
 DataPath <- paste0(path,"/Data")
 ResultPath <- paste0(path, "/Results") 
 
-# Conservation status ##########################################################
-
-# Load conservation models
-
-load(paste0(ResultPath, "/ConservationModels.RData"))
-
-# Load animals and plants data
-
-load(paste0(DataPath, "/ResData.RData"))
-
-# Join animals and plants
-
-datat <- plyr::rbind.fill(smallandata, smallplandata)
-
-# Transform IUCN category into an ordered factor
-
-datat$category <- ordered(datat$IUCN,
-                          c("LC", "NT", "VU", "EN", "CR"))
-
-# Remove species we don't have information about conservation status 
-
-subdatat <- subset(datat, !is.na(category))
-
-# Find the sample size per category and per Kingdom
-
-sample_size <-subdatat %>% 
-  mutate(resil="Recovery time",
-         threat = ordered(category,
-                          levels=c("LC", "NT", "VU", "EN", "CR")),
-         resil = ordered(resil,
-                         levels=c("Compensation", 
-                                  "Resistance", "Recovery time"))) %>%  
-  group_by(Kingdom, threat) %>% 
-  dplyr::summarize(num=n()) 
-  
-# Define colours
-
-iucncolors <- c("#52C148","#C5E51E","#FAEA12","#FD6A32","#CF000A")
-
-# Animals
-
-
-(g1a <-  mcon_a %>%
-    gather_draws(`b_.*`, regex = TRUE) %>%
-    mutate(threat = gsub("b_", "", .variable),
-           resil = gsub("_.*", "", threat),
-           resil = gsub("scalext", "Recovery time", resil),
-           resil = gsub("scalerlwr", "Resistance", resil),
-           resil = gsub("scalerupr", "Compensation", resil),
-           threat = gsub("scalext_", "", threat),
-           threat = gsub("scalerlwr_", "", threat),
-           threat = gsub("scalerupr_", "", threat),
-           threat = gsub("category", "", threat)) %>% 
-    filter(threat!="b_Dimension") %>%
-    mutate(threat = ordered(threat,
-                            levels=c("LC", "NT", "VU", "EN", "CR")),
-           resil = ordered(resil,
-                           levels=c("Compensation", 
-                                    "Resistance", "Recovery time"))) %>%
-    filter(threat!="<NA>") %>% 
-    ggplot(aes(y = .value, 
-               x = threat)) +
-    geom_hline(yintercept = 0, linetype="dashed", colour="grey50")+
-    geom_violin(aes(colour=threat, 
-                    fill=threat), alpha=0.5, colour="white")+
-    geom_boxplot(aes(colour=threat), 
-                 fill="white", width=0.1)+
-    facet_wrap(~resil, ncol=1) +
-    labs(x="Threat status", y = "Posterior estimate") +
-    scale_colour_manual("", values=iucncolors)+
-    scale_fill_manual("", values=iucncolors)+
-     geom_text(data = subset(sample_size, Kingdom=="Animalia"),
-               aes(y=-2, x=threat,
-                   label=paste0("n=", num))) +
-    theme(legend.position = "none",
-          strip.text = element_text(hjust = 0)))
-
-(g1b <-  mcon_p %>%
-    gather_draws(`b_.*`, regex = TRUE) %>%
-    mutate(threat = gsub("b_", "", .variable),
-           resil = gsub("_.*", "", threat),
-           resil = gsub("scalext", "Recovery time", resil),
-           resil = gsub("scalerlwr", "Resistance", resil),
-           resil = gsub("scalerupr", "Compensation", resil),
-           threat = gsub("scalext_", "", threat),
-           threat = gsub("scalerlwr_", "", threat),
-           threat = gsub("scalerupr_", "", threat),
-           threat = gsub("category", "", threat)) %>% 
-    filter(threat!="b_Dimension") %>%
-    mutate(threat = ordered(threat,
-                            levels=c("LC", "NT", "VU", "EN", "CR")),
-           resil = ordered(resil,
-                           levels=c("Compensation", 
-                                    "Resistance", "Recovery time"))) %>%
-    filter(threat!="<NA>") %>% 
-    ggplot(aes(y = .value, 
-               x = threat)) +
-    geom_hline(yintercept = 0, linetype="dashed", colour="grey50")+
-    geom_violin(aes(colour=threat, 
-                    fill=threat),alpha=0.5, colour="white")+
-    geom_boxplot(aes(colour=threat), fill="white", width=0.1)+
-    facet_wrap(~resil, ncol=1) +
-    labs(x="Threat status", y = "Posterior estimate") +
-    scale_colour_manual("", values=iucncolors)+
-    scale_fill_manual("", values=iucncolors)+
-    geom_text(data = subset(sample_size, Kingdom=="Plantae"),
-              aes(y=-2, x=threat,
-                  label=paste0("n=", num))) +
-    theme(legend.position = "none",
-          strip.text = element_text(hjust = 0)))
-
-# Figure S1 --------------------------------------------------------------------
-
-
-(FigS4 <- (g1a|g1b) + plot_annotation(tag_levels = 'a'))
-
-
-ggsave(FigS4,
-       filename = "Figure S4.pdf",
-       width = 10, height = 12,
-       path = ResultPath)
-
-# Free up some space 
-
-rm(mcon_p, mcon_a, g1a, g1b)
 
 # Body size effects ############################################################
 
@@ -437,3 +312,128 @@ ggsave(g3,
        filename = "Figure S3.pdf",
        width = 8, height = 10,
        path = ResultPath)
+# Conservation status ##########################################################
+
+# Load conservation models
+
+load(paste0(ResultPath, "/ConservationModels.RData"))
+
+# Load animals and plants data
+
+load(paste0(DataPath, "/ResData.RData"))
+
+# Join animals and plants
+
+datat <- plyr::rbind.fill(smallandata, smallplandata)
+
+# Transform IUCN category into an ordered factor
+
+datat$category <- ordered(datat$IUCN,
+                          c("LC", "NT", "VU", "EN", "CR"))
+
+# Remove species we don't have information about conservation status 
+
+subdatat <- subset(datat, !is.na(category))
+
+# Find the sample size per category and per Kingdom
+
+sample_size <-subdatat %>% 
+  mutate(resil="Recovery time",
+         threat = ordered(category,
+                          levels=c("LC", "NT", "VU", "EN", "CR")),
+         resil = ordered(resil,
+                         levels=c("Compensation", 
+                                  "Resistance", "Recovery time"))) %>%  
+  group_by(Kingdom, threat) %>% 
+  dplyr::summarize(num=n()) 
+
+# Define colours
+
+iucncolors <- c("#52C148","#C5E51E","#FAEA12","#FD6A32","#CF000A")
+
+# Animals
+
+
+(g1a <-  mcon_a %>%
+    gather_draws(`b_.*`, regex = TRUE) %>%
+    mutate(threat = gsub("b_", "", .variable),
+           resil = gsub("_.*", "", threat),
+           resil = gsub("scalext", "Recovery time", resil),
+           resil = gsub("scalerlwr", "Resistance", resil),
+           resil = gsub("scalerupr", "Compensation", resil),
+           threat = gsub("scalext_", "", threat),
+           threat = gsub("scalerlwr_", "", threat),
+           threat = gsub("scalerupr_", "", threat),
+           threat = gsub("category", "", threat)) %>% 
+    filter(threat!="b_Dimension") %>%
+    mutate(threat = ordered(threat,
+                            levels=c("LC", "NT", "VU", "EN", "CR")),
+           resil = ordered(resil,
+                           levels=c("Compensation", 
+                                    "Resistance", "Recovery time"))) %>%
+    filter(threat!="<NA>") %>% 
+    ggplot(aes(y = .value, 
+               x = threat)) +
+    geom_hline(yintercept = 0, linetype="dashed", colour="grey50")+
+    geom_violin(aes(colour=threat, 
+                    fill=threat), alpha=0.5, colour="white")+
+    geom_boxplot(aes(colour=threat), 
+                 fill="white", width=0.1)+
+    facet_wrap(~resil, ncol=1) +
+    labs(x="Threat status", y = "Posterior estimate") +
+    scale_colour_manual("", values=iucncolors)+
+    scale_fill_manual("", values=iucncolors)+
+    geom_text(data = subset(sample_size, Kingdom=="Animalia"),
+              aes(y=-2, x=threat,
+                  label=paste0("n=", num))) +
+    theme(legend.position = "none",
+          strip.text = element_text(hjust = 0)))
+
+(g1b <-  mcon_p %>%
+    gather_draws(`b_.*`, regex = TRUE) %>%
+    mutate(threat = gsub("b_", "", .variable),
+           resil = gsub("_.*", "", threat),
+           resil = gsub("scalext", "Recovery time", resil),
+           resil = gsub("scalerlwr", "Resistance", resil),
+           resil = gsub("scalerupr", "Compensation", resil),
+           threat = gsub("scalext_", "", threat),
+           threat = gsub("scalerlwr_", "", threat),
+           threat = gsub("scalerupr_", "", threat),
+           threat = gsub("category", "", threat)) %>% 
+    filter(threat!="b_Dimension") %>%
+    mutate(threat = ordered(threat,
+                            levels=c("LC", "NT", "VU", "EN", "CR")),
+           resil = ordered(resil,
+                           levels=c("Compensation", 
+                                    "Resistance", "Recovery time"))) %>%
+    filter(threat!="<NA>") %>% 
+    ggplot(aes(y = .value, 
+               x = threat)) +
+    geom_hline(yintercept = 0, linetype="dashed", colour="grey50")+
+    geom_violin(aes(colour=threat, 
+                    fill=threat),alpha=0.5, colour="white")+
+    geom_boxplot(aes(colour=threat), fill="white", width=0.1)+
+    facet_wrap(~resil, ncol=1) +
+    labs(x="Threat status", y = "Posterior estimate") +
+    scale_colour_manual("", values=iucncolors)+
+    scale_fill_manual("", values=iucncolors)+
+    geom_text(data = subset(sample_size, Kingdom=="Plantae"),
+              aes(y=-2, x=threat,
+                  label=paste0("n=", num))) +
+    theme(legend.position = "none",
+          strip.text = element_text(hjust = 0)))
+
+# Combine figure
+
+
+(FigS4 <- (g1a|g1b) + plot_annotation(tag_levels = 'a'))
+
+
+ggsave(FigS4,
+       filename = "Figure S4.pdf",
+       width = 10, height = 12,
+       path = ResultPath)
+
+# Free up some space 
+
+
