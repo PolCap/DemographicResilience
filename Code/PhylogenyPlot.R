@@ -45,7 +45,6 @@ setwd(DataPath)
 # Load animals and plants
 
 load("ResData.RData")
-#load("Explore.RData")
 
 # Load the phylogenetic signal results
 
@@ -149,15 +148,15 @@ heat.tree <- heat.tree + new_scale_fill()
     theme(legend.position = "bottom"))
 
 # Get the images for the plot from phylopic
-# 
-# sp <- data.frame()
-#  
-# for(i in 1:length(antree$tip.label)){
-#   tryCatch(x <- phylopic_uid(antree$tip.label[i]),
-#            error = function(c) "error")
-#   tryCatch(sp <- rbind(sp, x),
-#            error = function(c) "error")
-# }
+
+sp <- data.frame()
+
+for(i in 1:length(antree$tip.label)){
+  tryCatch(x <- phylopic_uid(antree$tip.label[i]),
+           error = function(c) "error")
+  tryCatch(sp <- rbind(sp, x),
+           error = function(c) "error")
+}
 
 load(paste0(DataPath,"/SpPhyloID.RData"))
 
@@ -290,17 +289,6 @@ smallplandata$species[which(smallplandata$species=="Alnus incana")] <-"Fagales"
 smallplandata$species[which(smallplandata$species=="Magnolia macrophylla")] <-"Magnolia"
 smallplandata$species[which(smallplandata$species=="Eryngium alpinum")] <-"Umbelliferae"
 
-
-# Format resilience data so that it lines up with species names in tree
-
-# plandata$node <- NA
-# tipnode <- seq_along(plantree$tip.label)
-# names(tipnode) <- plantree$tip.label
-# plandata$node <- tipnode[plandata$species] ## convert the tip label to tip node number
-# nodes <- plandata$AngioGymno
-# names(nodes) <- plandata$species
-# plantree$node.label2 <- nodes[plantree$tip.label] ## convert the tip label to tip node number
-
 # Start the tree
 
 (tree2 <- ggtree(plantree, layout = "circular")) 
@@ -360,17 +348,17 @@ heat.tree <- heat.tree + new_scale_fill()
 
 # Get the images for the plot from phylopic
 
-# sp2 <- data.frame()
-# rm(x)
+sp2 <- data.frame()
+rm(x)
 
 # Run the loop
 
-# for(i in 1:length(plantree$tip.label)){
-#   tryCatch(x <- phylopic_uid(plantree$tip.label[i]),
-#            error = function(c) "error") 
-#   tryCatch(sp2 <- rbind(sp2, x),
-#            error = function(c) "error") 
-# }
+for(i in 1:length(plantree$tip.label)){
+  tryCatch(x <- phylopic_uid(plantree$tip.label[i]),
+           error = function(c) "error")
+  tryCatch(sp2 <- rbind(sp2, x),
+           error = function(c) "error")
+}
 
 d2 <- sp2 %>% left_join(smallplandata[, c("species", "Order", "Class")], 
                       by=c("name"="species")) %>% 
@@ -382,7 +370,6 @@ d2 <- sp2 %>% left_join(smallplandata[, c("species", "Order", "Class")],
 # Add pictures
 
 (figB <- heat.tree +
-    #geom_tiplab()+
     geom_fruit(data=d2,
                geom=geom_phylopic,
                mapping=aes(y=name, image=uid),
